@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Stanley Kubrick",
+    "email": "a@a.com",
+    "password": "qwerty",
+    "createdAt": "2022-01-27T22:39:28.254Z"
+  },
+  {
+    "name": "Alfred Hitchcock",
+    "email": "b@b.com",
+    "password": "asdfgh",
+    "createdAt": "2022-11-14T15:43:56.554Z"
+  },
+  {
+    "name": "Martin Scorsese",
+    "email": "c@c.com",
+    "password": "password",
+    "createdAt": "2021-10-12T02:15:34.368Z"
+  },
+  {
+    "name": "Wong Kar-wai",
+    "email": "d@d.com",
+    "password": "qwerty",
+    "createdAt": "2022-08-02T00:46:42.176Z"
+  },
+  {
+    "name": "Christopher Nolan",
+    "email": "e@e.com",
+    "password": "zxcvbn",
+    "createdAt": "2022-09-15T04:49:17.022Z"
+  },
+  {
+    "name": "Quentin Tarantino",
+    "email": "f@f.com",
+    "password": "password",
+    "createdAt": "2023-12-02T10:18:59.829Z"
+  },
+  {
+    "name": "James Cameron",
+    "email": "g@g.com",
+    "password": "password",
+    "createdAt": "2024-03-02T03:11:44.813Z"
+  },
+  {
+    "name": "Francis Ford Coppola",
+    "email": "h@h.com",
+    "password": "zxcvbn",
+    "createdAt": "2024-03-25T09:30:15.982Z"
+  },
+  {
+    "name": "Ridley Scott",
+    "email": "i@i.com",
+    "password": "asdfgh",
+    "createdAt": "2022-12-05T10:16:50.015Z"
+  },
+  {
+    "name": "David Fincher",
+    "email": "j@j.com",
+    "password": "password",
+    "createdAt": "2024-01-07T04:36:05.571Z"
+  },
+  {
+    "name": "George Lucas",
+    "email": "k@k.com",
+    "password": "123456",
+    "createdAt": "2024-03-13T13:47:43.829Z"
+  },
+  {
+    "name": "Peter Jackson",
+    "email": "l@l.com",
+    "password": "123456",
+    "createdAt": "2023-07-28T16:26:57.520Z"
+  },
+  {
+    "name": "Tim Burton",
+    "email": "m@m.com",
+    "password": "password",
+    "createdAt": "2024-01-11T09:41:02.544Z"
+  },
+  {
+    "name": "Clint Eastwood",
+    "email": "n@n.com",
+    "password": "123456",
+    "createdAt": "2023-05-14T23:20:30.045Z"
+  },
+  {
+    "name": "Sergio Leone",
+    "email": "o@o.com",
+    "password": "password",
+    "createdAt": "2023-12-24T19:03:12.063Z"
+  },
+  {
+    "name": "Orson Welles",
+    "email": "p@p.com",
+    "password": "123456",
+    "createdAt": "2024-01-12T10:03:06.835Z"
+  },
+  {
+    "name": "Akira Kurosawa",
+    "email": "q@q.com",
+    "password": "qwerty",
+    "createdAt": "2021-09-21T18:09:59.696Z"
+  },
+  {
+    "name": "Federico Fellini",
+    "email": "r@r.com",
+    "password": "asdfgh",
+    "createdAt": "2021-09-27T05:42:41.651Z"
+  },
+  {
+    "name": "Ingmar Bergman",
+    "email": "s@s.com",
+    "password": "123456",
+    "createdAt": "2021-11-23T22:28:05.188Z"
+  },
+  {
+    "name": "Jean-Luc Godard",
+    "email": "t@t.com",
+    "password": "123456",
+    "createdAt": "2021-10-02T16:41:16.356Z"
+  },
+  {
+    "name": "Francis Truffaut",
+    "email": "u@u.com",
+    "password": "zxcvbn",
+    "createdAt": "2023-09-19T08:37:38.278Z"
+  },
+  {
+    "name": "Woody Allen",
+    "email": "v@v.com",
+    "password": "zxcvbn",
+    "createdAt": "2021-10-08T22:34:50.506Z"
+  },
+  {
+    "name": "Roman Polanski",
+    "email": "w@w.com",
+    "password": "123456",
+    "createdAt": "2022-10-31T11:30:23.475Z"
+  },
+  {
+    "name": "Wes Anderson",
+    "email": "x@x.com",
+    "password": "password",
+    "createdAt": "2023-05-11T12:20:25.427Z"
+  },
+  {
+    "name": "Hou Hsiao-Hsien",
+    "email": "y@y.com",
+    "password": "asdfgh",
+    "createdAt": "2021-10-07T23:41:18.325Z"
+  }
+]

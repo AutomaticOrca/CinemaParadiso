@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ritz CinemasName",
+    "address": "45 St Pauls St, Randwick NSW",
+    "lat": -33.920051,
+    "lng": 151.2433397
+  },
+  {
+    "name": "Hayden Orpheum Picture Palace",
+    "address": "380 Military Rd, Cremorne NSW",
+    "lat": -33.8280394,
+    "lng": 151.2297513
+  },
+  {
+    "name": "IMAX Sydney",
+    "address": "31 Wheat Rd, Darling Harbour NSW",
+    "lat": -33.8734864,
+    "lng": 151.2016212
+  },
+  {
+    "name": "Golden Age Cinema & Bar",
+    "address": "80 Commonwealth St, Surry Hills NSW",
+    "lat": -33.8793612,
+    "lng": 151.2110565
+  },
+  {
+    "name": "Event Cinemas George Street",
+    "address": "505-525 George St, Sydney NSW",
+    "lat": -33.8751239,
+    "lng": 151.2060487
+  },
+  {
+    "name": "Dendy Cinemas Newtown",
+    "address": "261-263 King St, Newtown NSW",
+    "lat": -33.8960079,
+    "lng": 151.1804343
+  }
+]

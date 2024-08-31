@@ -1,0 +1,3334 @@
+[
+  {
+    "plot": "A Maine banker convicted of the murder of his wife and her lover in 1947 gradually forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple comp...",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 142,
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg",
+    "title": "The Shawshank Redemption",
+    "countries": [
+      "United States"
+    ],
+    "released": "1994-10-13T14:00:00.000Z",
+    "directors": [
+      "Frank Darabont"
+    ],
+    "awards": "Nominated for 7 Oscars. 21 wins & 42 nominations total",
+    "year": 1994,
+    "rated": "R",
+    "rateTomato": 89,
+    "rateImdb": 9.3,
+    "rateMetacritic": 82
+  },
+  {
+    "plot": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son, Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 175,
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "title": "The Godfather",
+    "countries": [
+      "United States"
+    ],
+    "released": "1972-03-23T14:00:00.000Z",
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "awards": "Won 3 Oscars. 31 wins & 31 nominations total",
+    "year": 1972,
+    "rated": "R",
+    "rateTomato": 97,
+    "rateImdb": 9.2,
+    "rateMetacritic": 100
+  },
+  {
+    "plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 152,
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+    "title": "The Dark Knight",
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "released": "2008-07-17T14:00:00.000Z",
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "awards": "Won 2 Oscars. 164 wins & 164 nominations total",
+    "year": 2008,
+    "rated": "PG-13",
+    "rateTomato": 94,
+    "rateImdb": 9,
+    "rateMetacritic": 84
+  },
+  {
+    "plot": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 202,
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Robert Duvall"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "title": "The Godfather Part II",
+    "countries": [
+      "United States"
+    ],
+    "released": "1974-12-17T13:00:00.000Z",
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "awards": "Won 6 Oscars. 17 wins & 21 nominations total",
+    "year": 1974,
+    "rated": "R",
+    "rateTomato": 96,
+    "rateImdb": 9,
+    "rateMetacritic": 90
+  },
+  {
+    "plot": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 96,
+    "cast": [
+      "Henry Fonda",
+      "Lee J. Cobb",
+      "Martin Balsam"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "title": "12 Angry Men",
+    "countries": [
+      "United States"
+    ],
+    "released": "1957-04-09T14:00:00.000Z",
+    "directors": [
+      "Sidney Lumet"
+    ],
+    "awards": "Nominated for 3 Oscars. 16 wins & 12 nominations total",
+    "year": 1957,
+    "rated": "Approved",
+    "rateTomato": 100,
+    "rateImdb": 9,
+    "rateMetacritic": 97
+  },
+  {
+    "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "runtime": 195,
+    "cast": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "Schindler's List",
+    "countries": [
+      "United States"
+    ],
+    "released": "1994-02-03T13:00:00.000Z",
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "awards": "Won 7 Oscars. 91 wins & 49 nominations total",
+    "year": 1993,
+    "rated": "R",
+    "rateTomato": 98,
+    "rateImdb": 9,
+    "rateMetacritic": 95
+  },
+  {
+    "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 201,
+    "cast": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "title": "The Lord of the Rings: The Return of the King",
+    "countries": [
+      "New Zealand",
+      "United States"
+    ],
+    "released": "2003-12-16T13:00:00.000Z",
+    "directors": [
+      "Peter Jackson"
+    ],
+    "awards": "Won 11 Oscars. 215 wins & 124 nominations total",
+    "year": 2003,
+    "rated": "PG-13",
+    "rateTomato": 94,
+    "rateImdb": 9,
+    "rateMetacritic": 94
+  },
+  {
+    "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 154,
+    "cast": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "title": "Pulp Fiction",
+    "countries": [
+      "United States"
+    ],
+    "released": "1994-10-13T14:00:00.000Z",
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "awards": "Won 1 Oscar. 69 wins & 72 nominations total",
+    "year": 1994,
+    "rated": "R",
+    "rateTomato": 92,
+    "rateImdb": 8.9,
+    "rateMetacritic": 95
+  },
+  {
+    "plot": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "runtime": 178,
+    "cast": [
+      "Clint Eastwood",
+      "Eli Wallach",
+      "Lee Van Cleef"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_SX300.jpg",
+    "title": "The Good, the Bad and the Ugly",
+    "countries": [
+      "Italy",
+      "Spain",
+      "West Germany"
+    ],
+    "released": "1967-12-28T14:00:00.000Z",
+    "directors": [
+      "Sergio Leone"
+    ],
+    "awards": "2 wins & 5 nominations",
+    "year": 1966,
+    "rated": "R",
+    "rateTomato": 97,
+    "rateImdb": 8.8,
+    "rateMetacritic": 90
+  },
+  {
+    "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 139,
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Meat Loaf"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "title": "Fight Club",
+    "countries": [
+      "Germany",
+      "United States"
+    ],
+    "released": "1999-10-14T14:00:00.000Z",
+    "directors": [
+      "David Fincher"
+    ],
+    "awards": "Nominated for 1 Oscar. 12 wins & 38 nominations total",
+    "year": 1999,
+    "rated": "R",
+    "rateTomato": 80,
+    "rateImdb": 8.8,
+    "rateMetacritic": 67
+  },
+  {
+    "plot": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 142,
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "title": "Forrest Gump",
+    "countries": [
+      "United States"
+    ],
+    "released": "1994-07-05T14:00:00.000Z",
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "awards": "Won 6 Oscars. 51 wins & 74 nominations total",
+    "year": 1994,
+    "rated": "PG-13",
+    "rateTomato": 76,
+    "rateImdb": 8.8,
+    "rateMetacritic": 82
+  },
+  {
+    "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": 148,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+    "title": "Inception",
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "released": "2010-07-15T14:00:00.000Z",
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "awards": "Won 4 Oscars. 159 wins & 220 nominations total",
+    "year": 2010,
+    "rated": "PG-13",
+    "rateTomato": 87,
+    "rateImdb": 8.8,
+    "rateMetacritic": 74
+  },
+  {
+    "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 178,
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Orlando Bloom"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "countries": [
+      "New Zealand",
+      "United States",
+      "United Kingdom"
+    ],
+    "released": "2001-12-18T13:00:00.000Z",
+    "directors": [
+      "Peter Jackson"
+    ],
+    "awards": "Won 4 Oscars. 125 wins & 126 nominations total",
+    "year": 2001,
+    "rated": "PG-13",
+    "rateTomato": 92,
+    "rateImdb": 8.9,
+    "rateMetacritic": 92
+  },
+  {
+    "plot": "After the Rebel Alliance are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "runtime": 124,
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "released": "1980-06-17T14:00:00.000Z",
+    "directors": [
+      "Irvin Kershner"
+    ],
+    "awards": "Won 1 Oscar. 27 wins & 20 nominations total",
+    "year": 1980,
+    "rated": "PG",
+    "rateTomato": 95,
+    "rateImdb": 8.7,
+    "rateMetacritic": 82
+  },
+  {
+    "plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 179,
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "The Lord of the Rings: The Two Towers",
+    "countries": [
+      "New Zealand",
+      "United States"
+    ],
+    "released": "2002-12-17T13:00:00.000Z",
+    "directors": [
+      "Peter Jackson"
+    ],
+    "awards": "Won 2 Oscars. 132 wins & 138 nominations total",
+    "year": 2002,
+    "rated": "PG-13",
+    "rateTomato": 95,
+    "rateImdb": 8.8,
+    "rateMetacritic": 87
+  },
+  {
+    "plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "runtime": 136,
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "The Matrix",
+    "countries": [
+      "United States",
+      "Australia"
+    ],
+    "released": "1999-03-30T14:00:00.000Z",
+    "directors": [
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ],
+    "awards": "Won 4 Oscars. 42 wins & 52 nominations total",
+    "year": 1999,
+    "rated": "R",
+    "rateTomato": 83,
+    "rateImdb": 8.7,
+    "rateMetacritic": 73
+  },
+  {
+    "plot": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 145,
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "title": "Goodfellas",
+    "countries": [
+      "United States"
+    ],
+    "released": "1990-09-20T14:00:00.000Z",
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "awards": "Won 1 Oscar. 44 wins & 38 nominations total",
+    "year": 1990,
+    "rated": "R",
+    "rateTomato": 95,
+    "rateImdb": 8.7,
+    "rateMetacritic": 92
+  },
+  {
+    "plot": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 133,
+    "cast": [
+      "Jack Nicholson",
+      "Louise Fletcher",
+      "Michael Berryman"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "countries": [
+      "United States"
+    ],
+    "released": "1975-11-18T13:00:00.000Z",
+    "directors": [
+      "Milos Forman"
+    ],
+    "awards": "Won 5 Oscars. 38 wins & 15 nominations total",
+    "year": 1975,
+    "rated": "R",
+    "rateTomato": 93,
+    "rateImdb": 8.7,
+    "rateMetacritic": 84
+  },
+  {
+    "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": 127,
+    "cast": [
+      "Morgan Freeman",
+      "Brad Pitt",
+      "Kevin Spacey"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "Se7en",
+    "countries": [
+      "United States"
+    ],
+    "released": "1995-09-21T14:00:00.000Z",
+    "directors": [
+      "David Fincher"
+    ],
+    "awards": "Nominated for 1 Oscar. 29 wins & 44 nominations total",
+    "year": 1995,
+    "rated": "R",
+    "rateTomato": 83,
+    "rateImdb": 8.6,
+    "rateMetacritic": 65
+  },
+  {
+    "plot": "Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him.",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "runtime": 207,
+    "cast": [
+      "Toshirô Mifune",
+      "Takashi Shimura",
+      "Keiko Tsushima"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTkwY2I5NWMtMjNlNi00ZThjLWI4NzQtNDI4M2I4OGM1YjAzXkEyXkFqcGdeQXVyNzYxODE3NTQ@._V1_SX300.jpg",
+    "title": "Seven Samurai",
+    "countries": [
+      "Japan"
+    ],
+    "released": "1956-11-18T14:00:00.000Z",
+    "directors": [
+      "Akira Kurosawa"
+    ],
+    "awards": "Nominated for 2 Oscars. 5 wins & 9 nominations total",
+    "year": 1954,
+    "rated": "Not Rated",
+    "rateTomato": 100,
+    "rateImdb": 8.6,
+    "rateMetacritic": 98
+  },
+  {
+    "plot": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "runtime": 130,
+    "cast": [
+      "James Stewart",
+      "Donna Reed",
+      "Lionel Barrymore"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX300.jpg",
+    "title": "It's a Wonderful Life",
+    "countries": [
+      "United States"
+    ],
+    "released": "1947-01-06T14:00:00.000Z",
+    "directors": [
+      "Frank Capra"
+    ],
+    "awards": "Nominated for 5 Oscars. 7 wins & 6 nominations total",
+    "year": 1946,
+    "rated": "PG",
+    "rateTomato": 94,
+    "rateImdb": 8.6,
+    "rateMetacritic": 89
+  },
+  {
+    "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": 118,
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "The Silence of the Lambs",
+    "countries": [
+      "United States"
+    ],
+    "released": "1991-02-13T13:00:00.000Z",
+    "directors": [
+      "Jonathan Demme"
+    ],
+    "awards": "Won 5 Oscars. 71 wins & 50 nominations total",
+    "year": 1991,
+    "rated": "R",
+    "rateTomato": 95,
+    "rateImdb": 8.6,
+    "rateMetacritic": 86
+  },
+  {
+    "plot": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 130,
+    "cast": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino",
+      "Matheus Nachtergaele"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU5OWEwZDItNmNkMC00NzZmLTk1YTctNzVhZTJjM2NlZTVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "title": "City of God",
+    "countries": [
+      "Brazil",
+      "France",
+      "Germany"
+    ],
+    "released": "2004-02-12T13:00:00.000Z",
+    "directors": [
+      "Fernando Meirelles",
+      "Kátia Lund"
+    ],
+    "awards": "Nominated for 4 Oscars. 75 wins & 50 nominations total",
+    "year": 2002,
+    "rated": "R",
+    "rateTomato": 91,
+    "rateImdb": 8.6,
+    "rateMetacritic": 79
+  },
+  {
+    "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "runtime": 169,
+    "cast": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Tom Sizemore"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+    "title": "Saving Private Ryan",
+    "countries": [
+      "United States"
+    ],
+    "released": "1998-07-23T14:00:00.000Z",
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "awards": "Won 5 Oscars. 79 wins & 75 nominations total",
+    "year": 1998,
+    "rated": "R",
+    "rateTomato": 94,
+    "rateImdb": 8.6,
+    "rateMetacritic": 91
+  },
+  {
+    "plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, and where humans are changed into beasts.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "runtime": 125,
+    "cast": [
+      "Daveigh Chase",
+      "Suzanne Pleshette",
+      "Miyu Irino"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "title": "Spirited Away",
+    "countries": [
+      "Japan",
+      "United States"
+    ],
+    "released": "2003-03-27T13:00:00.000Z",
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "awards": "Won 1 Oscar. 58 wins & 31 nominations total",
+    "year": 2001,
+    "rated": "PG",
+    "rateTomato": 96,
+    "rateImdb": 8.6,
+    "rateMetacritic": 96
+  },
+  {
+    "plot": "A tale set on death row, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the lead guard, Paul Edgecombe, recognizes John's gift, he tries to help stave off the condemned man's execution.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "runtime": 189,
+    "cast": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX300.jpg",
+    "title": "The Green Mile",
+    "countries": [
+      "United States"
+    ],
+    "released": "1999-12-09T13:00:00.000Z",
+    "directors": [
+      "Frank Darabont"
+    ],
+    "awards": "Nominated for 4 Oscars. 15 wins & 37 nominations total",
+    "year": 1999,
+    "rated": "R",
+    "rateTomato": 79,
+    "rateImdb": 8.6,
+    "rateMetacritic": 61
+  },
+  {
+    "plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "runtime": 169,
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "title": "Interstellar",
+    "countries": [
+      "United States",
+      "United Kingdom",
+      "Canada"
+    ],
+    "released": "2014-11-06T13:00:00.000Z",
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "awards": "Won 1 Oscar. 44 wins & 148 nominations total",
+    "year": 2014,
+    "rated": "PG-13",
+    "rateTomato": 73,
+    "rateImdb": 8.7,
+    "rateMetacritic": 74
+  },
+  {
+    "plot": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 110,
+    "cast": [
+      "Jean Reno",
+      "Gary Oldman",
+      "Natalie Portman"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "title": "Léon: The Professional",
+    "countries": [
+      "France",
+      "United States"
+    ],
+    "released": "1994-11-17T13:00:00.000Z",
+    "directors": [
+      "Luc Besson"
+    ],
+    "awards": "5 wins & 16 nominations",
+    "year": 1994,
+    "rated": "R",
+    "rateTomato": 75,
+    "rateImdb": 8.5,
+    "rateMetacritic": 64
+  },
+  {
+    "plot": "The sole survivor of a pier shoot-out tells the story of how a notorious criminal influenced the events that began with five criminals meeting in a seemingly random police lineup.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": 106,
+    "cast": [
+      "Kevin Spacey",
+      "Gabriel Byrne",
+      "Chazz Palminteri"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "The Usual Suspects",
+    "countries": [
+      "Germany",
+      "United States"
+    ],
+    "released": "1995-08-15T14:00:00.000Z",
+    "directors": [
+      "Bryan Singer"
+    ],
+    "awards": "Won 2 Oscars. 37 wins & 17 nominations total",
+    "year": 1995,
+    "rated": "R",
+    "rateTomato": 87,
+    "rateImdb": 8.5,
+    "rateMetacritic": 77
+  },
+  {
+    "plot": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": 133,
+    "cast": [
+      "Tatsuya Nakadai",
+      "Akira Ishihama",
+      "Shima Iwashita"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWNmYzg5NWYtNzhiMS00NzlkLTgyOTUtYzM3MjY0NDc2YjFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "title": "Harakiri",
+    "countries": [
+      "Japan"
+    ],
+    "released": "1964-08-03T14:00:00.000Z",
+    "directors": [
+      "Masaki Kobayashi"
+    ],
+    "awards": "9 wins & 3 nominations",
+    "year": 1962,
+    "rated": "Not Rated",
+    "rateTomato": 100,
+    "rateImdb": 8.6,
+    "rateMetacritic": 85
+  },
+  {
+    "plot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 88,
+    "cast": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl Jones"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX300.jpg",
+    "title": "The Lion King",
+    "countries": [
+      "United States"
+    ],
+    "released": "1994-06-23T14:00:00.000Z",
+    "directors": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "awards": "Won 2 Oscars. 43 wins & 35 nominations total",
+    "year": 1994,
+    "rated": "G",
+    "rateTomato": 92,
+    "rateImdb": 8.5,
+    "rateMetacritic": 88
+  },
+  {
+    "plot": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "runtime": 116,
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "title": "Back to the Future",
+    "countries": [
+      "United States"
+    ],
+    "released": "1985-07-02T14:00:00.000Z",
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "awards": "Won 1 Oscar. 25 wins & 25 nominations total",
+    "year": 1985,
+    "rated": "PG",
+    "rateTomato": 93,
+    "rateImdb": 8.5,
+    "rateMetacritic": 87
+  },
+  {
+    "plot": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "runtime": 150,
+    "cast": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "The Pianist",
+    "countries": [
+      "France",
+      "Poland",
+      "Germany",
+      "United Kingdom",
+      "United States"
+    ],
+    "released": "2003-03-27T13:00:00.000Z",
+    "directors": [
+      "Roman Polanski"
+    ],
+    "awards": "Won 3 Oscars. 57 wins & 74 nominations total",
+    "year": 2002,
+    "rated": "R",
+    "rateTomato": 95,
+    "rateImdb": 8.5,
+    "rateMetacritic": 85
+  },
+  {
+    "plot": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son John from an even more advanced and powerful cyborg.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": 137,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "Terminator 2: Judgment Day",
+    "countries": [
+      "United States",
+      "France"
+    ],
+    "released": "1991-07-02T14:00:00.000Z",
+    "directors": [
+      "James Cameron"
+    ],
+    "awards": "Won 4 Oscars. 39 wins & 33 nominations total",
+    "year": 1991,
+    "rated": "R",
+    "rateTomato": 91,
+    "rateImdb": 8.6,
+    "rateMetacritic": 75
+  },
+  {
+    "plot": "Living a life marked by violence, neo-Nazi Derek finally goes to prison after killing two black youths. Upon his release, Derek vows to change; he hopes to prevent his brother, Danny, who idolizes Derek, from following in his foot...",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 119,
+    "cast": [
+      "Edward Norton",
+      "Edward Furlong",
+      "Beverly D'Angelo"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzhiOTQ0NDItOTg0Zi00OGVmLWE0OGEtMTI4NDM0NWMxZWU4XkEyXkFqcGc@._V1_SX300.jpg",
+    "title": "American History X",
+    "countries": [
+      "United States"
+    ],
+    "released": "1998-11-19T13:00:00.000Z",
+    "directors": [
+      "Tony Kaye"
+    ],
+    "awards": "Nominated for 1 Oscar. 4 wins & 15 nominations total",
+    "year": 1998,
+    "rated": "R",
+    "rateTomato": 84,
+    "rateImdb": 8.5,
+    "rateMetacritic": 62
+  },
+  {
+    "plot": "A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother.",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime": 109,
+    "cast": [
+      "Anthony Perkins",
+      "Janet Leigh",
+      "Vera Miles"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "title": "Psycho",
+    "countries": [
+      "United States"
+    ],
+    "released": "1960-09-07T14:00:00.000Z",
+    "directors": [
+      "Alfred Hitchcock"
+    ],
+    "awards": "Nominated for 4 Oscars. 8 wins & 14 nominations total",
+    "year": 1960,
+    "rated": "R",
+    "rateTomato": 97,
+    "rateImdb": 8.5,
+    "rateMetacritic": 97
+  },
+  {
+    "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 155,
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "Gladiator",
+    "countries": [
+      "United States",
+      "United Kingdom",
+      "Malta",
+      "Morocco"
+    ],
+    "released": "2000-05-04T14:00:00.000Z",
+    "directors": [
+      "Ridley Scott"
+    ],
+    "awards": "Won 5 Oscars. 60 wins & 104 nominations total",
+    "year": 2000,
+    "rated": "R",
+    "rateTomato": 80,
+    "rateImdb": 8.5,
+    "rateMetacritic": 67
+  },
+  {
+    "plot": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 87,
+    "cast": [
+      "Charles Chaplin",
+      "Virginia Cherrill",
+      "Florence Lee"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_SX300.jpg",
+    "title": "City Lights",
+    "countries": [
+      "United States"
+    ],
+    "released": "1931-03-06T14:00:00.000Z",
+    "directors": [
+      "Charles Chaplin"
+    ],
+    "awards": "4 wins",
+    "year": 1931,
+    "rated": "G",
+    "rateTomato": 95,
+    "rateImdb": 8.5,
+    "rateMetacritic": 99
+  },
+  {
+    "plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": 151,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg",
+    "title": "The Departed",
+    "countries": [
+      "United States",
+      "Hong Kong"
+    ],
+    "released": "2006-10-05T14:00:00.000Z",
+    "directors": [
+      "Martin Scorsese"
+    ],
+    "awards": "Won 4 Oscars. 99 wins & 141 nominations total",
+    "year": 2006,
+    "rated": "R",
+    "rateTomato": 91,
+    "rateImdb": 8.5,
+    "rateMetacritic": 85
+  },
+  {
+    "plot": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "runtime": 112,
+    "cast": [
+      "François Cluzet",
+      "Omar Sy",
+      "Anne Le Ny"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SX300.jpg",
+    "title": "The Intouchables",
+    "countries": [
+      "France"
+    ],
+    "released": "2011-11-01T13:00:00.000Z",
+    "directors": [
+      "Olivier Nakache",
+      "Éric Toledano"
+    ],
+    "awards": "Nominated for 1 BAFTA Award38 wins & 40 nominations total",
+    "year": 2011,
+    "rated": "R",
+    "rateTomato": 76,
+    "rateImdb": 8.5,
+    "rateMetacritic": 57
+  },
+  {
+    "plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "runtime": 106,
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Melissa Benoist"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "title": "Whiplash",
+    "countries": [
+      "United States"
+    ],
+    "released": "2024-09-19T14:00:00.000Z",
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "awards": "Won 3 Oscars. 98 wins & 144 nominations total",
+    "year": 2014,
+    "rated": "R",
+    "rateTomato": 94,
+    "rateImdb": 8.5,
+    "rateMetacritic": 89
+  },
+  {
+    "plot": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "runtime": 130,
+    "cast": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX300.jpg",
+    "title": "The Prestige",
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "released": "2006-10-19T14:00:00.000Z",
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "awards": "Nominated for 2 Oscars. 6 wins & 44 nominations total",
+    "year": 2006,
+    "rated": "PG-13",
+    "rateTomato": 77,
+    "rateImdb": 8.5,
+    "rateMetacritic": 66
+  },
+  {
+    "plot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 88,
+    "cast": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl Jones"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX300.jpg",
+    "title": "The Lion King",
+    "countries": [
+      "United States"
+    ],
+    "released": "1994-06-23T14:00:00.000Z",
+    "directors": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "awards": "Won 2 Oscars. 43 wins & 35 nominations total",
+    "year": 1994,
+    "rated": "G",
+    "rateTomato": 92,
+    "rateImdb": 8.5,
+    "rateMetacritic": 88
+  },
+  {
+    "plot": "Leonard Shelby, an insurance investigator, suffers from anterograde amnesia and uses notes and tattoos to hunt for the man he thinks killed his wife, which is the last thing he remembers.",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime": 113,
+    "cast": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "Memento",
+    "countries": [
+      "United States"
+    ],
+    "released": "2001-05-24T14:00:00.000Z",
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "awards": "Nominated for 2 Oscars. 57 wins & 59 nominations total",
+    "year": 2000,
+    "rated": "R",
+    "rateTomato": 94,
+    "rateImdb": 8.4,
+    "rateMetacritic": 83
+  },
+  {
+    "plot": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "runtime": 147,
+    "cast": [
+      "Martin Sheen",
+      "Marlon Brando",
+      "Robert Duvall"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "title": "Apocalypse Now",
+    "countries": [
+      "United States"
+    ],
+    "released": "1979-08-14T14:00:00.000Z",
+    "directors": [
+      "Francis Ford Coppola"
+    ],
+    "awards": "Won 2 Oscars. 21 wins & 33 nominations total",
+    "year": 1979,
+    "rated": "R",
+    "rateTomato": 97,
+    "rateImdb": 8.4,
+    "rateMetacritic": 94
+  },
+  {
+    "plot": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.",
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "runtime": 117,
+    "cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "title": "Alien",
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "released": "1979-06-21T14:00:00.000Z",
+    "directors": [
+      "Ridley Scott"
+    ],
+    "awards": "Won 1 Oscar. 19 wins & 22 nominations total",
+    "year": 1979,
+    "rated": "R",
+    "rateTomato": 93,
+    "rateImdb": 8.5,
+    "rateMetacritic": 89
+  },
+  {
+    "plot": "N/A",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": null,
+    "cast": [
+      "Victoria Ullmann"
+    ],
+    "poster": "N/A",
+    "title": "Sunset Blvd.",
+    "countries": [
+      "USA",
+      "Germany"
+    ],
+    "released": null,
+    "directors": [
+      "Ulli Lommel"
+    ],
+    "awards": "N/A",
+    "year": 2012,
+    "rated": "N/A",
+    "rateTomato": 0,
+    "rateImdb": 5.2,
+    "rateMetacritic": null
+  },
+  {
+    "plot": "An unhinged American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+    "genres": [
+      "Comedy",
+      "War"
+    ],
+    "runtime": 95,
+    "cast": [
+      "Peter Sellers",
+      "George C. Scott",
+      "Sterling Hayden"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "released": "1964-01-28T14:00:00.000Z",
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "awards": "Nominated for 4 Oscars. 14 wins & 11 nominations total",
+    "year": 1964,
+    "rated": "PG",
+    "rateTomato": 98,
+    "rateImdb": 8.3,
+    "rateMetacritic": 97
+  },
+  {
+    "plot": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "runtime": 125,
+    "cast": [
+      "Charles Chaplin",
+      "Paulette Goddard",
+      "Jack Oakie"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_SX300.jpg",
+    "title": "The Great Dictator",
+    "countries": [
+      "United States"
+    ],
+    "released": "1941-03-06T14:00:00.000Z",
+    "directors": [
+      "Charles Chaplin"
+    ],
+    "awards": "Nominated for 5 Oscars. 7 wins & 6 nominations total",
+    "year": 1940,
+    "rated": "G",
+    "rateTomato": 92,
+    "rateImdb": 8.4,
+    "rateMetacritic": null
+  },
+  {
+    "plot": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 174,
+    "cast": [
+      "Philippe Noiret",
+      "Enzo Cannavale",
+      "Antonella Attili"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_SX300.jpg",
+    "title": "Cinema Paradiso",
+    "countries": [
+      "Italy",
+      "France"
+    ],
+    "released": "1990-02-22T13:00:00.000Z",
+    "directors": [
+      "Giuseppe Tornatore"
+    ],
+    "awards": "Won 1 Oscar. 25 wins & 33 nominations total",
+    "year": 1988,
+    "rated": "PG",
+    "rateTomato": 91,
+    "rateImdb": 8.5,
+    "rateMetacritic": 80
+  },
+  {
+    "plot": "A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence. At the same time, his psychic son sees horrifying forebodings from both the past and the future.",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "runtime": 146,
+    "cast": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "title": "The Shining",
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "released": "1980-06-12T14:00:00.000Z",
+    "directors": [
+      "Stanley Kubrick"
+    ],
+    "awards": "6 wins & 9 nominations",
+    "year": 1980,
+    "rated": "R",
+    "rateTomato": 83,
+    "rateImdb": 8.4,
+    "rateMetacritic": 66
+  },
+  {
+    "plot": "A young boy and his little sister struggle to survive in Japan during World War II.",
+    "genres": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "runtime": 88,
+    "cast": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Akemi Yamaguchi"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "title": "Grave of the Fireflies",
+    "countries": [
+      "Japan",
+      "United States"
+    ],
+    "released": "1989-07-25T14:00:00.000Z",
+    "directors": [
+      "Isao Takahata"
+    ],
+    "awards": "3 wins",
+    "year": 1988,
+    "rated": "Not Rated",
+    "rateTomato": 100,
+    "rateImdb": 8.5,
+    "rateMetacritic": 94
+  },
+  {
+    "plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 181,
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+    "title": "Avengers: Endgame",
+    "countries": [
+      "United States"
+    ],
+    "released": "2019-04-25T14:00:00.000Z",
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "awards": "Nominated for 1 Oscar. 70 wins & 133 nominations total",
+    "year": 2019,
+    "rated": "PG-13",
+    "rateTomato": 94,
+    "rateImdb": 8.4,
+    "rateMetacritic": 78
+  },
+  {
+    "plot": "Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of crime and chaos in Gotham ...",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": 122,
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "title": "Joker",
+    "countries": [
+      "United States",
+      "Canada",
+      "Australia"
+    ],
+    "released": "2019-10-03T14:00:00.000Z",
+    "directors": [
+      "Todd Phillips"
+    ],
+    "awards": "Won 2 Oscars. 120 wins & 245 nominations total",
+    "year": 2019,
+    "rated": "R",
+    "rateTomato": 69,
+    "rateImdb": 8.4,
+    "rateMetacritic": 59
+  },
+  {
+    "plot": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "runtime": 81,
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg",
+    "title": "Toy Story",
+    "countries": [
+      "United States"
+    ],
+    "released": "1995-11-21T13:00:00.000Z",
+    "directors": [
+      "John Lasseter"
+    ],
+    "awards": "Nominated for 3 Oscars. 29 wins & 24 nominations total",
+    "year": 1995,
+    "rated": "G",
+    "rateTomato": 100,
+    "rateImdb": 8.3,
+    "rateMetacritic": 96
+  },
+  {
+    "plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "runtime": 153,
+    "cast": [
+      "Brad Pitt",
+      "Diane Kruger",
+      "Eli Roth"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "title": "Inglourious Basterds",
+    "countries": [
+      "Germany",
+      "United States"
+    ],
+    "released": "2009-08-20T14:00:00.000Z",
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "awards": "Won 1 Oscar. 134 wins & 172 nominations total",
+    "year": 2009,
+    "rated": "R",
+    "rateTomato": 89,
+    "rateImdb": 8.4,
+    "rateMetacritic": 69
+  },
+  {
+    "plot": "Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": 164,
+    "cast": [
+      "Christian Bale",
+      "Tom Hardy",
+      "Anne Hathaway"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg",
+    "title": "The Dark Knight Rises",
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "released": "2012-07-19T14:00:00.000Z",
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "awards": "Nominated for 1 BAFTA Award45 wins & 103 nominations total",
+    "year": 2012,
+    "rated": "PG-13",
+    "rateTomato": 87,
+    "rateImdb": 8.4,
+    "rateMetacritic": 78
+  },
+  {
+    "plot": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": 117,
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "countries": [
+      "Canada",
+      "United States"
+    ],
+    "released": "2018-12-13T13:00:00.000Z",
+    "directors": [
+      "Bob Persichetti",
+      "Peter Ramsey",
+      "Rodney Rothman"
+    ],
+    "awards": "Won 1 Oscar. 85 wins & 61 nominations total",
+    "year": 2018,
+    "rated": "PG",
+    "rateTomato": 97,
+    "rateImdb": 8.4,
+    "rateMetacritic": 87
+  },
+  {
+    "plot": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "runtime": 86,
+    "cast": [
+      "Hitoshi Takagi",
+      "Noriko Hidaka",
+      "Chika Sakamoto"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmVlYWU0ZTUtMTE4Yi00MDA2LTgzNzQtMWEyZWJkNDg5NGE2L2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SX300.jpg",
+    "title": "My Neighbor Totoro",
+    "countries": [
+      "Japan"
+    ],
+    "released": "1990-07-12T14:00:00.000Z",
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "awards": "5 wins & 2 nominations",
+    "year": 1988,
+    "rated": "G",
+    "rateTomato": 94,
+    "rateImdb": 8.1,
+    "rateMetacritic": 86
+  },
+  {
+    "plot": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": 134,
+    "cast": [
+      "Yôji Matsuda",
+      "Yuriko Ishida",
+      "Yûko Tanaka"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjM3NGExNDctYmU0Yy00MTJjLThlNTItMjM4NDBjMGRiMmE5XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
+    "title": "Princess Mononoke",
+    "countries": [
+      "Japan"
+    ],
+    "released": "1997-07-11T14:00:00.000Z",
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "awards": "14 wins & 6 nominations",
+    "year": 1997,
+    "rated": "PG-13",
+    "rateTomato": 93,
+    "rateImdb": 8.3,
+    "rateMetacritic": 76
+  },
+  {
+    "plot": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "runtime": 119,
+    "cast": [
+      "Chieko Baishô",
+      "Takuya Kimura",
+      "Tatsuya Gashûin"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_SX300.jpg",
+    "title": "Howl's Moving Castle",
+    "countries": [
+      "Japan",
+      "United States"
+    ],
+    "released": "2005-06-16T14:00:00.000Z",
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "awards": "Nominated for 1 Oscar. 14 wins & 20 nominations total",
+    "year": 2004,
+    "rated": "PG",
+    "rateTomato": 87,
+    "rateImdb": 8.2,
+    "rateMetacritic": 82
+  },
+  {
+    "plot": "Pazu's life changes when he meets Sheeta, a girl whom pirates are chasing for her crystal amulet, which has the potential to locate Laputa, a legendary castle floating in the sky.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "runtime": 125,
+    "cast": [
+      "Mayumi Tanaka",
+      "Keiko Yokozawa",
+      "Kotoe Hatsui"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTJhNWIxNmUtYThlYy00NGNmLWE4NTItZWY5MmI4ZWNhMTNkXkEyXkFqcGc@._V1_SX300.jpg",
+    "title": "Castle in the Sky",
+    "countries": [
+      "Japan"
+    ],
+    "released": "1991-07-18T14:00:00.000Z",
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "awards": "1 win",
+    "year": 1986,
+    "rated": "PG",
+    "rateTomato": 96,
+    "rateImdb": 8,
+    "rateMetacritic": 78
+  },
+  {
+    "plot": "Along with her black cat Jiji, Kiki settles in a seaside town and starts a high-flying delivery service. Here begins her magical encounter with independence and responsibility, making lifelong friends and finding her place in the ...",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "runtime": 103,
+    "cast": [
+      "Kirsten Dunst",
+      "Minami Takayama",
+      "Rei Sakuma"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTFhYWI1NGUtZWFhZS00MTdkLWIzZTItMDBhNWNiZDNlMjYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "title": "Kiki's Delivery Service",
+    "countries": [
+      "Japan"
+    ],
+    "released": "1990-12-19T13:00:00.000Z",
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "awards": "4 wins",
+    "year": 1989,
+    "rated": "G",
+    "rateTomato": 0,
+    "rateImdb": 7.8,
+    "rateMetacritic": 85
+  },
+  {
+    "plot": "Warrior and pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": 117,
+    "cast": [
+      "Sumi Shimamoto",
+      "Mahito Tsujimura",
+      "Hisako Kyôda"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BODBhMTI3YzMtNTRjYS00OTFkLWJmODUtNjJiNzcwYTVkNDhiXkEyXkFqcGc@._V1_SX300.jpg",
+    "title": "Nausicaä of the Valley of the Wind",
+    "countries": [
+      "Japan"
+    ],
+    "released": "1987-11-24T13:00:00.000Z",
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "awards": "3 wins & 1 nomination",
+    "year": 1984,
+    "rated": "PG",
+    "rateTomato": 90,
+    "rateImdb": 8,
+    "rateMetacritic": 86
+  },
+  {
+    "plot": "A five-year-old boy develops a relationship with Ponyo, a young goldfish princess who longs to become a human after falling in love with him.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "runtime": 101,
+    "cast": [
+      "Cate Blanchett",
+      "Matt Damon",
+      "Liam Neeson"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTc3YmM3N2QtODZkMC00ZDE5LThjMTQtYTljN2Y1YTYwYWJkXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_SX300.jpg",
+    "title": "Ponyo",
+    "countries": [
+      "Japan"
+    ],
+    "released": "2009-08-13T14:00:00.000Z",
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "awards": "12 wins & 20 nominations",
+    "year": 2008,
+    "rated": "G",
+    "rateTomato": 91,
+    "rateImdb": 7.6,
+    "rateMetacritic": 86
+  },
+  {
+    "plot": "Jiro Horikoshi studies assiduously to fulfill his aim of becoming an aeronautical engineer. As WWII begins, fighter aircraft designed by him end up getting used by the Japanese Empire against its foes.",
+    "genres": [
+      "Animation",
+      "Biography",
+      "Drama"
+    ],
+    "runtime": 126,
+    "cast": [
+      "Hideaki Anno",
+      "Hidetoshi Nishijima",
+      "Miori Takimoto"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4NDg0MzkzNV5BMl5BanBnXkFtZTgwODA3Mzc1MDE@._V1_SX300.jpg",
+    "title": "The Wind Rises",
+    "countries": [
+      "Japan"
+    ],
+    "released": "2014-02-20T13:00:00.000Z",
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "awards": "Nominated for 1 Oscar. 26 wins & 54 nominations total",
+    "year": 2013,
+    "rated": "PG-13",
+    "rateTomato": 88,
+    "rateImdb": 7.8,
+    "rateMetacritic": 83
+  },
+  {
+    "plot": "A dashing thief, his gang of desperadoes and an intrepid cop struggle to free a princess from an evil count, and learn the secret of a treasure that she holds part of the key to.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": 102,
+    "cast": [
+      "Yasuo Yamada",
+      "Eiko Masuyama",
+      "Kiyoshi Kobayashi"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzYyNjg3OTctNzA2ZS00NjkzLWE4MmYtZDAzZWQ0NzkyMTJhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "title": "Lupin III: The Castle of Cagliostro",
+    "countries": [
+      "Japan"
+    ],
+    "released": "1979-12-14T13:00:00.000Z",
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "awards": "1 win & 1 nomination",
+    "year": 1979,
+    "rated": "PG-13",
+    "rateTomato": 96,
+    "rateImdb": 7.6,
+    "rateMetacritic": 72
+  },
+  {
+    "plot": "The Clock family are four-inch-tall people who live anonymously in another family's residence, borrowing simple items to make their home. Life changes for the Clocks when their teenage daughter Arrietty is discovered.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 94,
+    "cast": [
+      "Bridgit Mendler",
+      "Amy Poehler",
+      "Will Arnett"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDY3ZGI0ZDAtMThlNy00MzAxLTg4YjAtNjkwYTkxNmQ4MjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "title": "The Secret World of Arrietty",
+    "countries": [
+      "Japan",
+      "France",
+      "United States"
+    ],
+    "released": "2012-02-16T13:00:00.000Z",
+    "directors": [
+      "Hiromasa Yonebayashi"
+    ],
+    "awards": "12 wins & 6 nominations",
+    "year": 2010,
+    "rated": "G",
+    "rateTomato": 94,
+    "rateImdb": 7.6,
+    "rateMetacritic": 80
+  },
+  {
+    "plot": "Two boys meet at an opera training school in Peking in 1924. Their resulting friendship will span nearly 70 years and endure some of the most troublesome times in China's history.",
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "runtime": 171,
+    "cast": [
+      "Leslie Cheung",
+      "Fengyi Zhang",
+      "Gong Li"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmFhZmM3Y2MtNDA1Ny00NjkzLWJkM2EtYWU1ZjEwYmNjZDQ0XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+    "title": "Farewell My Concubine",
+    "countries": [
+      "China",
+      "Hong Kong"
+    ],
+    "released": "1993-10-14T14:00:00.000Z",
+    "directors": [
+      "Kaige Chen"
+    ],
+    "awards": "Nominated for 2 Oscars. 24 wins & 12 nominations total",
+    "year": 1993,
+    "rated": "R",
+    "rateTomato": 91,
+    "rateImdb": 8.1,
+    "rateMetacritic": 83
+  },
+  {
+    "plot": "A mathematical genius, John Nash made an astonishing discovery early in his career and stood on the brink of international acclaim. But the handsome and arrogant Nash soon found himself on a harrowing journey of self-discovery.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": 135,
+    "cast": [
+      "Russell Crowe",
+      "Ed Harris",
+      "Jennifer Connelly"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "title": "A Beautiful Mind",
+    "countries": [
+      "United States"
+    ],
+    "released": "2002-01-03T13:00:00.000Z",
+    "directors": [
+      "Ron Howard"
+    ],
+    "awards": "Won 4 Oscars. 37 wins & 69 nominations total",
+    "year": 2001,
+    "rated": "PG-13",
+    "rateTomato": 74,
+    "rateImdb": 8.2,
+    "rateMetacritic": 72
+  },
+  {
+    "plot": "A young Chinese warrior steals a sword from a famed swordsman and then escapes into a world of romantic adventure with a mysterious man in the frontier of the nation.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 120,
+    "cast": [
+      "Chow Yun-Fat",
+      "Michelle Yeoh",
+      "Ziyi Zhang"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDdhMzMxOTctNDMyNS00NTZmLTljNWEtNTc4MDBmZTYxY2NmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "Crouching Tiger, Hidden Dragon",
+    "countries": [
+      "Taiwan",
+      "Hong Kong",
+      "United States",
+      "China"
+    ],
+    "released": "2001-01-11T13:00:00.000Z",
+    "directors": [
+      "Ang Lee"
+    ],
+    "awards": "Won 4 Oscars. 101 wins & 132 nominations total",
+    "year": 2000,
+    "rated": "PG-13",
+    "rateTomato": 98,
+    "rateImdb": 7.9,
+    "rateMetacritic": 94
+  },
+  {
+    "plot": "Despite being caught in her imaginative world, Amelie, a young waitress, decides to help people find happiness. Her quest to spread joy leads her on a journey where she finds true love.",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "runtime": 122,
+    "cast": [
+      "Audrey Tautou",
+      "Mathieu Kassovitz",
+      "Rufus"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "title": "Amélie",
+    "countries": [
+      "France",
+      "Germany"
+    ],
+    "released": "2002-02-07T13:00:00.000Z",
+    "directors": [
+      "Jean-Pierre Jeunet"
+    ],
+    "awards": "Nominated for 5 Oscars. 59 wins & 74 nominations total",
+    "year": 2001,
+    "rated": "R",
+    "rateTomato": 90,
+    "rateImdb": 8.3,
+    "rateMetacritic": 69
+  },
+  {
+    "plot": "In 1984 East Berlin, an agent of the secret police conducting surveillance on a writer and his lover finds himself becoming increasingly absorbed by their lives.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime": 137,
+    "cast": [
+      "Ulrich Mühe",
+      "Martina Gedeck",
+      "Sebastian Koch"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "title": "The Lives of Others",
+    "countries": [
+      "Germany",
+      "France"
+    ],
+    "released": "2007-03-29T14:00:00.000Z",
+    "directors": [
+      "Florian Henckel von Donnersmarck"
+    ],
+    "awards": "Won 1 Oscar. 80 wins & 38 nominations total",
+    "year": 2006,
+    "rated": "R",
+    "rateTomato": 92,
+    "rateImdb": 8.4,
+    "rateMetacritic": 89
+  },
+  {
+    "plot": "A baby boy discovered on an ocean liner in 1900 grows into a musical prodigy, never setting foot on land.",
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "runtime": 169,
+    "cast": [
+      "Tim Roth",
+      "Pruitt Taylor Vince",
+      "Mélanie Thierry"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWFiZmQ1ZTItZGE4OC00N2EyLWE4OTMtYmY2YTE0ZGExZWZjXkEyXkFqcGc@._V1_SX300.jpg",
+    "title": "The Legend of 1900",
+    "countries": [
+      "Italy"
+    ],
+    "released": "1998-10-27T13:00:00.000Z",
+    "directors": [
+      "Giuseppe Tornatore"
+    ],
+    "awards": "22 wins & 10 nominations",
+    "year": 1998,
+    "rated": "R",
+    "rateTomato": 56,
+    "rateImdb": 8,
+    "rateMetacritic": 58
+  },
+  {
+    "plot": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "runtime": 117,
+    "cast": [
+      "Will Smith",
+      "Thandiwe Newton",
+      "Jaden Smith"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_SX300.jpg",
+    "title": "The Pursuit of Happyness",
+    "countries": [
+      "United States"
+    ],
+    "released": "2006-12-14T13:00:00.000Z",
+    "directors": [
+      "Gabriele Muccino"
+    ],
+    "awards": "Nominated for 1 Oscar. 12 wins & 26 nominations total",
+    "year": 2006,
+    "rated": "PG-13",
+    "rateTomato": 67,
+    "rateImdb": 8,
+    "rateMetacritic": 64
+  },
+  {
+    "plot": "Chan Wing Yan, a policeman, successfully infiltrates a gang while Wong Chi-Shing, a tried member, becomes a mole in the police force. However, things change when both of them must seek each other out.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 101,
+    "cast": [
+      "Andy Lau",
+      "Tony Leung Chiu-wai",
+      "Anthony Chau-Sang Wong"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BODMzOGVmZDktMGNjNS00NzJkLWJiZGUtNTU1YTIyMzI4Njc4XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX300.jpg",
+    "title": "Infernal Affairs",
+    "countries": [
+      "Hong Kong"
+    ],
+    "released": "2002-12-11T13:00:00.000Z",
+    "directors": [
+      "Wai Keung Lau",
+      "Alan Mak"
+    ],
+    "awards": "24 wins & 26 nominations",
+    "year": 2002,
+    "rated": "R",
+    "rateTomato": 94,
+    "rateImdb": 8,
+    "rateMetacritic": 75
+  },
+  {
+    "plot": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "runtime": 131,
+    "cast": [
+      "Lubna Azabal",
+      "Mélissa Désormeaux-Poulin",
+      "Maxim Gaudette"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "title": "Incendies",
+    "countries": [
+      "Canada",
+      "France"
+    ],
+    "released": "2011-04-21T14:00:00.000Z",
+    "directors": [
+      "Denis Villeneuve"
+    ],
+    "awards": "Nominated for 1 Oscar. 41 wins & 19 nominations total",
+    "year": 2010,
+    "rated": "R",
+    "rateTomato": 91,
+    "rateImdb": 8.3,
+    "rateMetacritic": 80
+  },
+  {
+    "plot": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "runtime": 170,
+    "cast": [
+      "Aamir Khan",
+      "Madhavan",
+      "Mona Singh"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "3 Idiots",
+    "countries": [
+      "India"
+    ],
+    "released": "2009-12-24T13:00:00.000Z",
+    "directors": [
+      "Rajkumar Hirani"
+    ],
+    "awards": "64 wins & 30 nominations",
+    "year": 2009,
+    "rated": "PG-13",
+    "rateTomato": 100,
+    "rateImdb": 8.4,
+    "rateMetacritic": 67
+  },
+  {
+    "plot": "An insurance salesman is oblivious of the fact that his entire life is a TV show and his family members are mere actors. As he starts noticing things and uncovers the truth, he decides to escape.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "runtime": 103,
+    "cast": [
+      "Jim Carrey",
+      "Ed Harris",
+      "Laura Linney"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "title": "The Truman Show",
+    "countries": [
+      "United States"
+    ],
+    "released": "1998-06-04T14:00:00.000Z",
+    "directors": [
+      "Peter Weir"
+    ],
+    "awards": "Nominated for 3 Oscars. 40 wins & 69 nominations total",
+    "year": 1998,
+    "rated": "PG",
+    "rateTomato": 94,
+    "rateImdb": 8.2,
+    "rateMetacritic": 90
+  },
+  {
+    "plot": "Mahavir Singh Phogat, a former wrestler, decides to fulfill his dream of winning a gold medal for his country by training his daughters for the Commonwealth Games despite the existing social stigmas.",
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "runtime": 161,
+    "cast": [
+      "Aamir Khan",
+      "Sakshi Tanwar",
+      "Fatima Sana Shaikh"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SX300.jpg",
+    "title": "Dangal",
+    "countries": [
+      "India",
+      "United States"
+    ],
+    "released": "2016-12-20T13:00:00.000Z",
+    "directors": [
+      "Nitesh Tiwari"
+    ],
+    "awards": "41 wins & 38 nominations",
+    "year": 2016,
+    "rated": "Not Rated",
+    "rateTomato": 89,
+    "rateImdb": 8.3,
+    "rateMetacritic": null
+  },
+  {
+    "plot": "A series of mysterious events change the life of a blind pianist, who must now report a crime that he should technically know nothing of.",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime": 139,
+    "cast": [
+      "Tabu",
+      "Ayushmann Khurrana",
+      "Radhika Apte"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWZhMjhhZmYtOTIzOC00MGYzLWI1OGYtM2ZkN2IxNTI4ZWI3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_SX300.jpg",
+    "title": "Andhadhun",
+    "countries": [
+      "India"
+    ],
+    "released": "2018-10-04T14:00:00.000Z",
+    "directors": [
+      "Sriram Raghavan"
+    ],
+    "awards": "35 wins & 43 nominations",
+    "year": 2018,
+    "rated": "Not Rated",
+    "rateTomato": 100,
+    "rateImdb": 8.2,
+    "rateMetacritic": null
+  },
+  {
+    "plot": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "runtime": 111,
+    "cast": [
+      "Brad Garrett",
+      "Lou Romano",
+      "Patton Oswalt"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SX300.jpg",
+    "title": "Ratatouille",
+    "countries": [
+      "United States"
+    ],
+    "released": "2007-06-26T14:00:00.000Z",
+    "directors": [
+      "Brad Bird",
+      "Jan Pinkava"
+    ],
+    "awards": "Won 1 Oscar. 68 wins & 42 nominations total",
+    "year": 2007,
+    "rated": "G",
+    "rateTomato": 96,
+    "rateImdb": 8.1,
+    "rateMetacritic": 96
+  },
+  {
+    "plot": "Malcolm Crowe, a child psychologist, starts treating a young boy, Cole, who encounters dead people and convinces him to help them. In turn, Cole helps Malcolm reconcile with his estranged wife.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "runtime": 107,
+    "cast": [
+      "Bruce Willis",
+      "Haley Joel Osment",
+      "Toni Collette"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "title": "The Sixth Sense",
+    "countries": [
+      "United States"
+    ],
+    "released": "1999-08-05T14:00:00.000Z",
+    "directors": [
+      "M. Night Shyamalan"
+    ],
+    "awards": "Nominated for 6 Oscars. 37 wins & 56 nominations total",
+    "year": 1999,
+    "rated": "PG-13",
+    "rateTomato": 85,
+    "rateImdb": 8.2,
+    "rateMetacritic": 64
+  },
+  {
+    "plot": "A teenager from the slums of Mumbai becomes a contestant on the show 'Kaun Banega Crorepati?' When interrogated under suspicion of cheating, he revisits his past, revealing how he had all the answers.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 120,
+    "cast": [
+      "Dev Patel",
+      "Freida Pinto",
+      "Saurabh Shukla"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmNjZWI3NzktYWI1Mi00OTAyLWJkNTYtMzUwYTFlZDA0Y2UwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "Slumdog Millionaire",
+    "countries": [
+      "United Kingdom",
+      "France",
+      "United States",
+      "India"
+    ],
+    "released": "2008-12-24T13:00:00.000Z",
+    "directors": [
+      "Danny Boyle",
+      "Loveleen Tandan"
+    ],
+    "awards": "Won 8 Oscars. 153 wins & 133 nominations total",
+    "year": 2008,
+    "rated": "R",
+    "rateTomato": 91,
+    "rateImdb": 8,
+    "rateMetacritic": 84
+  },
+  {
+    "plot": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 116,
+    "cast": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Giorgio Cantarini"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "title": "Life Is Beautiful",
+    "countries": [
+      "Italy"
+    ],
+    "released": "1997-12-19T13:00:00.000Z",
+    "directors": [
+      "Roberto Benigni"
+    ],
+    "awards": "Won 3 Oscars. 72 wins & 52 nominations total",
+    "year": 1997,
+    "rated": "PG-13",
+    "rateTomato": 81,
+    "rateImdb": 8.6,
+    "rateMetacritic": 59
+  },
+  {
+    "plot": "Benjamin Button, born in 1918 with the physical state of an elderly man, ages in reverse. He experiences love and break-ups, ecstasy and sorrow, and timelessness by the time he dies in 2003 as a baby.",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "runtime": 166,
+    "cast": [
+      "Brad Pitt",
+      "Cate Blanchett",
+      "Tilda Swinton"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI4M2I1MTItYjdiYi00YTZhLTg0NDgtZWIzOGU5ZmM3NWZlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+    "title": "The Curious Case of Benjamin Button",
+    "countries": [
+      "United States"
+    ],
+    "released": "2008-12-24T13:00:00.000Z",
+    "directors": [
+      "David Fincher"
+    ],
+    "awards": "Won 3 Oscars. 85 wins & 160 nominations total",
+    "year": 2008,
+    "rated": "PG-13",
+    "rateTomato": 72,
+    "rateImdb": 7.8,
+    "rateMetacritic": 70
+  },
+  {
+    "plot": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "runtime": 128,
+    "cast": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "Rosemarie DeWitt"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_SX300.jpg",
+    "title": "La La Land",
+    "countries": [
+      "United States",
+      "Hong Kong"
+    ],
+    "released": "2016-12-24T13:00:00.000Z",
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "awards": "Won 6 Oscars. 241 wins & 307 nominations total",
+    "year": 2016,
+    "rated": "PG-13",
+    "rateTomato": 91,
+    "rateImdb": 8,
+    "rateMetacritic": 94
+  },
+  {
+    "plot": "A robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind.",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "runtime": 98,
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX300.jpg",
+    "title": "WALL·E",
+    "countries": [
+      "United States",
+      "Japan"
+    ],
+    "released": "2008-06-28T14:00:00.000Z",
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "awards": "Won 1 Oscar. 96 wins & 95 nominations total",
+    "year": 2008,
+    "rated": "G",
+    "rateTomato": 95,
+    "rateImdb": 8.4,
+    "rateMetacritic": 95
+  },
+  {
+    "plot": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "runtime": 108,
+    "cast": [
+      "Ginnifer Goodwin",
+      "Jason Bateman",
+      "Idris Elba"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_SX300.jpg",
+    "title": "Zootopia",
+    "countries": [
+      "United States"
+    ],
+    "released": "2016-03-03T13:00:00.000Z",
+    "directors": [
+      "Byron Howard",
+      "Rich Moore",
+      "Jared Bush"
+    ],
+    "awards": "Won 1 Oscar. 49 wins & 75 nominations total",
+    "year": 2016,
+    "rated": "PG",
+    "rateTomato": 98,
+    "rateImdb": 8,
+    "rateMetacritic": 78
+  },
+  {
+    "plot": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "runtime": 129,
+    "cast": [
+      "Ricardo Darín",
+      "Soledad Villamil",
+      "Pablo Rago"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@._V1_SX300.jpg",
+    "title": "The Secret in Their Eyes",
+    "countries": [
+      "Argentina",
+      "Spain"
+    ],
+    "released": "2010-05-20T14:00:00.000Z",
+    "directors": [
+      "Juan José Campanella"
+    ],
+    "awards": "Won 1 Oscar. 53 wins & 43 nominations total",
+    "year": 2009,
+    "rated": "R",
+    "rateTomato": 89,
+    "rateImdb": 8.2,
+    "rateMetacritic": 80
+  },
+  {
+    "plot": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "runtime": 150,
+    "cast": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "The Pianist",
+    "countries": [
+      "France",
+      "Poland",
+      "Germany",
+      "United Kingdom",
+      "United States"
+    ],
+    "released": "2003-03-27T13:00:00.000Z",
+    "directors": [
+      "Roman Polanski"
+    ],
+    "awards": "Won 3 Oscars. 57 wins & 74 nominations total",
+    "year": 2002,
+    "rated": "R",
+    "rateTomato": 95,
+    "rateImdb": 8.5,
+    "rateMetacritic": 85
+  },
+  {
+    "plot": "During Prohibition, Treasury agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone, and assembles a small, incorruptible team to help him.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": 119,
+    "cast": [
+      "Kevin Costner",
+      "Sean Connery",
+      "Robert De Niro"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTVjYWJmMWQtYWU4Ni00MWY3LWI2YmMtNTI5MDE0MWVmMmEzL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "title": "The Untouchables",
+    "countries": [
+      "United States"
+    ],
+    "released": "1987-06-02T14:00:00.000Z",
+    "directors": [
+      "Brian De Palma"
+    ],
+    "awards": "Won 1 Oscar. 11 wins & 18 nominations total",
+    "year": 1987,
+    "rated": "R",
+    "rateTomato": 83,
+    "rateImdb": 7.8,
+    "rateMetacritic": 79
+  },
+  {
+    "plot": "A frustrated son tries to determine the fact from fiction in his dying father's life.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "runtime": 125,
+    "cast": [
+      "Ewan McGregor",
+      "Albert Finney",
+      "Billy Crudup"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTNlNTQzMGEtYjU4Yi00MzEzLThmMTQtNmM0NzcxZWI1MTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "title": "Big Fish",
+    "countries": [
+      "United States"
+    ],
+    "released": "2004-01-08T13:00:00.000Z",
+    "directors": [
+      "Tim Burton"
+    ],
+    "awards": "Nominated for 1 Oscar. 69 nominations total",
+    "year": 2003,
+    "rated": "PG-13",
+    "rateTomato": 75,
+    "rateImdb": 8,
+    "rateMetacritic": 58
+  },
+  {
+    "plot": "In the near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "runtime": 126,
+    "cast": [
+      "Joaquin Phoenix",
+      "Amy Adams",
+      "Scarlett Johansson"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_SX300.jpg",
+    "title": "Her",
+    "countries": [
+      "United States"
+    ],
+    "released": "2014-01-09T13:00:00.000Z",
+    "directors": [
+      "Spike Jonze"
+    ],
+    "awards": "Won 1 Oscar. 83 wins & 186 nominations total",
+    "year": 2013,
+    "rated": "R",
+    "rateTomato": 95,
+    "rateImdb": 8,
+    "rateMetacritic": 91
+  },
+  {
+    "plot": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 110,
+    "cast": [
+      "Jean Reno",
+      "Gary Oldman",
+      "Natalie Portman"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "title": "Léon: The Professional",
+    "countries": [
+      "France",
+      "United States"
+    ],
+    "released": "1994-11-17T13:00:00.000Z",
+    "directors": [
+      "Luc Besson"
+    ],
+    "awards": "5 wins & 16 nominations",
+    "year": 1994,
+    "rated": "R",
+    "rateTomato": 75,
+    "rateImdb": 8.5,
+    "rateMetacritic": 64
+  },
+  {
+    "plot": "Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for 40 years by hacker Lisbeth Salander.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": 158,
+    "cast": [
+      "Daniel Craig",
+      "Rooney Mara",
+      "Christopher Plummer"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_SX300.jpg",
+    "title": "The Girl with the Dragon Tattoo",
+    "countries": [
+      "United States",
+      "Sweden"
+    ],
+    "released": "2011-12-20T13:00:00.000Z",
+    "directors": [
+      "David Fincher"
+    ],
+    "awards": "Won 1 Oscar. 26 wins & 91 nominations total",
+    "year": 2011,
+    "rated": "R",
+    "rateTomato": 86,
+    "rateImdb": 7.8,
+    "rateMetacritic": 71
+  },
+  {
+    "plot": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+    "genres": [
+      "Drama",
+      "Family",
+      "Sport"
+    ],
+    "runtime": 89,
+    "cast": [
+      "Mohammad Amir Naji",
+      "Amir Farrokh Hashemian",
+      "Bahare Seddiqi"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "Children of Heaven",
+    "countries": [
+      "Iran"
+    ],
+    "released": "1999-01-21T13:00:00.000Z",
+    "directors": [
+      "Majid Majidi"
+    ],
+    "awards": "Nominated for 1 Oscar. 17 wins & 5 nominations total",
+    "year": 1997,
+    "rated": "PG",
+    "rateTomato": 83,
+    "rateImdb": 8.2,
+    "rateMetacritic": 77
+  },
+  {
+    "plot": "The story of King George VI, his unexpected ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "runtime": 118,
+    "cast": [
+      "Colin Firth",
+      "Geoffrey Rush",
+      "Helena Bonham Carter"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1_SX300.jpg",
+    "title": "The King's Speech",
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "released": "2010-12-24T13:00:00.000Z",
+    "directors": [
+      "Tom Hooper"
+    ],
+    "awards": "Won 4 Oscars. 109 wins & 206 nominations total",
+    "year": 2010,
+    "rated": "R",
+    "rateTomato": 94,
+    "rateImdb": 8,
+    "rateMetacritic": 88
+  },
+  {
+    "plot": "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": 114,
+    "cast": [
+      "Benedict Cumberbatch",
+      "Keira Knightley",
+      "Matthew Goode"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI3NjY1Mjg3MV5BMl5BanBnXkFtZTgwMzk5MDQ3MjE@._V1_SX300.jpg",
+    "title": "The Imitation Game",
+    "countries": [
+      "United States"
+    ],
+    "released": "2014-12-24T13:00:00.000Z",
+    "directors": [
+      "Morten Tyldum"
+    ],
+    "awards": "Won 1 Oscar. 49 wins & 165 nominations total",
+    "year": 2014,
+    "rated": "PG-13",
+    "rateTomato": 90,
+    "rateImdb": 8,
+    "rateMetacritic": 71
+  },
+  {
+    "plot": "Thirteen-year-old fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "runtime": 123,
+    "cast": [
+      "Keira Knightley",
+      "James McAvoy",
+      "Brenda Blethyn"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGRiYjE0YzItMzk3Zi00ZmYwLWJjNDktYTAwYjIwMjIxYzM3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "title": "Atonement",
+    "countries": [
+      "United States",
+      "France",
+      "United Kingdom"
+    ],
+    "released": "2008-01-10T13:00:00.000Z",
+    "directors": [
+      "Joe Wright"
+    ],
+    "awards": "Won 1 Oscar. 52 wins & 150 nominations total",
+    "year": 2007,
+    "rated": "R",
+    "rateTomato": 83,
+    "rateImdb": 7.8,
+    "rateMetacritic": 85
+  },
+  {
+    "plot": "While the arrival of wealthy gentlemen sends her marriage-minded mother into a frenzy, willful and opinionated Elizabeth Bennet matches wits with haughty Mr. Darcy.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 327,
+    "cast": [
+      "Colin Firth",
+      "Jennifer Ehle",
+      "Susannah Harker"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDM0MjFlOGYtNTg2ZC00MmRkLTg5OTQtM2U5ZjUyYTgxZThiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "title": "Pride and Prejudice",
+    "countries": [
+      "United Kingdom"
+    ],
+    "released": "1996-01-13T13:00:00.000Z",
+    "directors": [
+      "N/A"
+    ],
+    "awards": "Won 1 Primetime Emmy. 9 wins & 13 nominations total",
+    "year": 1995,
+    "rated": "TV-PG",
+    "rateTomato": 0,
+    "rateImdb": 8.8,
+    "rateMetacritic": null
+  },
+  {
+    "plot": "Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "runtime": 107,
+    "cast": [
+      "Jason Flemyng",
+      "Dexter Fletcher",
+      "Nick Moran"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "released": "1998-08-27T14:00:00.000Z",
+    "directors": [
+      "Guy Ritchie"
+    ],
+    "awards": "Won 1 BAFTA Award13 wins & 9 nominations total",
+    "year": 1998,
+    "rated": "R",
+    "rateTomato": 75,
+    "rateImdb": 8.1,
+    "rateMetacritic": 66
+  },
+  {
+    "plot": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "runtime": 102,
+    "cast": [
+      "Jason Statham",
+      "Brad Pitt",
+      "Stephen Graham"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzk5NjJkMTQtN2IyNC00YWM5LTlhZmMtNGI3MWNhMTU1YTc4XkEyXkFqcGc@._V1_SX300.jpg",
+    "title": "Snatch",
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "released": "2001-01-18T13:00:00.000Z",
+    "directors": [
+      "Guy Ritchie"
+    ],
+    "awards": "4 wins & 7 nominations",
+    "year": 2000,
+    "rated": "R",
+    "rateTomato": 74,
+    "rateImdb": 8.2,
+    "rateMetacritic": 55
+  },
+  {
+    "plot": "Stephen Hawking gets unprecedented success in the field of physics despite being diagnosed with motor neuron disease at the age of 21. He defeats awful odds as his first wife Jane aids him loyally.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 123,
+    "cast": [
+      "Eddie Redmayne",
+      "Felicity Jones",
+      "Tom Prior"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1_SX300.jpg",
+    "title": "The Theory of Everything",
+    "countries": [
+      "United Kingdom",
+      "Japan",
+      "United States"
+    ],
+    "released": "2014-11-25T13:00:00.000Z",
+    "directors": [
+      "James Marsh"
+    ],
+    "awards": "Won 1 Oscar. 25 wins & 126 nominations total",
+    "year": 2014,
+    "rated": "PG-13",
+    "rateTomato": 80,
+    "rateImdb": 7.7,
+    "rateMetacritic": 71
+  },
+  {
+    "plot": "A talented young boy becomes torn between his unexpected love of dance and the disintegration of his family.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "runtime": 110,
+    "cast": [
+      "Jamie Bell",
+      "Julie Walters",
+      "Jean Heywood"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGY3NWYwNzctNWU5Yi00ZjljLTgyNDgtZjNhZjRlNjc0ZTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "title": "Billy Elliot",
+    "countries": [
+      "United Kingdom",
+      "France"
+    ],
+    "released": "2000-11-09T13:00:00.000Z",
+    "directors": [
+      "Stephen Daldry"
+    ],
+    "awards": "Nominated for 3 Oscars. 55 wins & 71 nominations total",
+    "year": 2000,
+    "rated": "R",
+    "rateTomato": 85,
+    "rateImdb": 7.7,
+    "rateMetacritic": 74
+  },
+  {
+    "plot": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out despite the allure of drugs and the influence of friends.",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 93,
+    "cast": [
+      "Ewan McGregor",
+      "Ewen Bremner",
+      "Jonny Lee Miller"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "title": "Trainspotting",
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "released": "1996-08-08T14:00:00.000Z",
+    "directors": [
+      "Danny Boyle"
+    ],
+    "awards": "Nominated for 1 Oscar. 23 wins & 35 nominations total",
+    "year": 1996,
+    "rated": "R",
+    "rateTomato": 90,
+    "rateImdb": 8.1,
+    "rateMetacritic": 83
+  },
+  {
+    "plot": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 135,
+    "cast": [
+      "Hugh Grant",
+      "Martine McCutcheon",
+      "Liam Neeson"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+    "title": "Love Actually",
+    "countries": [
+      "United Kingdom",
+      "France",
+      "United States"
+    ],
+    "released": "2003-11-13T13:00:00.000Z",
+    "directors": [
+      "Richard Curtis"
+    ],
+    "awards": "Won 1 BAFTA Award11 wins & 29 nominations total",
+    "year": 2003,
+    "rated": "R",
+    "rateTomato": 64,
+    "rateImdb": 7.6,
+    "rateMetacritic": 55
+  },
+  {
+    "plot": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "runtime": 124,
+    "cast": [
+      "Anthony Hopkins",
+      "John Hurt",
+      "Anne Bancroft"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "title": "The Elephant Man",
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "released": "1980-10-09T14:00:00.000Z",
+    "directors": [
+      "David Lynch"
+    ],
+    "awards": "Nominated for 8 Oscars. 11 wins & 22 nominations total",
+    "year": 1980,
+    "rated": "PG",
+    "rateTomato": 92,
+    "rateImdb": 8.2,
+    "rateMetacritic": 78
+  },
+  {
+    "plot": "Six unemployed steel workers form a male striptease act. The women cheer them on to go for \"the full monty\" - total nudity.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "runtime": 91,
+    "cast": [
+      "Robert Carlyle",
+      "Tom Wilkinson",
+      "Mark Addy"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NjMGQzZmItMTMwYS00MDA2LWFmZmYtNjA4MTQ2ODNjYzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "title": "The Full Monty",
+    "countries": [
+      "United Kingdom",
+      "Italy",
+      "United States"
+    ],
+    "released": "1997-09-18T14:00:00.000Z",
+    "directors": [
+      "Peter Cattaneo"
+    ],
+    "awards": "Won 1 Oscar. 37 wins & 35 nominations total",
+    "year": 1997,
+    "rated": "R",
+    "rateTomato": 96,
+    "rateImdb": 7.2,
+    "rateMetacritic": 75
+  },
+  {
+    "plot": "The world's greatest ever playwright, William Shakespeare, is young, out of ideas and short of cash, but meets his ideal woman and is inspired to write one of his most famous plays.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "runtime": 123,
+    "cast": [
+      "Gwyneth Paltrow",
+      "Joseph Fiennes",
+      "Geoffrey Rush"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZkNjM5MjEtNTBlMC00OTI5LTgyYmEtZDljMzNmNzhiNzY0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+    "title": "Shakespeare in Love",
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "released": "1999-01-07T13:00:00.000Z",
+    "directors": [
+      "John Madden"
+    ],
+    "awards": "Won 7 Oscars. 65 wins & 87 nominations total",
+    "year": 1998,
+    "rated": "R",
+    "rateTomato": 92,
+    "rateImdb": 7.1,
+    "rateMetacritic": 87
+  },
+  {
+    "plot": "A set of circumstances makes Anna Scott, a famous actress, fall in love with William Thacker, owner of a bookstore in Notting Hill. But the paparazzi's fascination with her complicates their bond.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 124,
+    "cast": [
+      "Hugh Grant",
+      "Julia Roberts",
+      "Richard McCabe"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTkwYzYtNDhlNC00MzljLTk1YTktY2IxZjliZmNjMjUzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "title": "Notting Hill",
+    "countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "released": "1999-05-27T14:00:00.000Z",
+    "directors": [
+      "Roger Michell"
+    ],
+    "awards": "Won 1 BAFTA Award11 wins & 17 nominations total",
+    "year": 1999,
+    "rated": "PG-13",
+    "rateTomato": 84,
+    "rateImdb": 7.2,
+    "rateMetacritic": 68
+  },
+  {
+    "plot": "British retirees travel to India to take up residence in what they believe is a newly restored hotel. Less luxurious than advertised, the Marigold Hotel nevertheless slowly begins to charm in unexpected ways.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 124,
+    "cast": [
+      "Judi Dench",
+      "Bill Nighy",
+      "Maggie Smith"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIwNjkwMDI2NV5BMl5BanBnXkFtZTcwNDc1ODIyNw@@._V1_SX300.jpg",
+    "title": "The Best Exotic Marigold Hotel",
+    "countries": [
+      "United Kingdom",
+      "United Arab Emirates",
+      "United States"
+    ],
+    "released": "2012-05-24T14:00:00.000Z",
+    "directors": [
+      "John Madden"
+    ],
+    "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
+    "year": 2011,
+    "rated": "PG-13",
+    "rateTomato": 78,
+    "rateImdb": 7.2,
+    "rateMetacritic": 62
+  },
+  {
+    "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 194,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "title": "Titanic",
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "released": "1997-12-18T13:00:00.000Z",
+    "directors": [
+      "James Cameron"
+    ],
+    "awards": "Won 11 Oscars. 126 wins & 83 nominations total",
+    "year": 1997,
+    "rated": "PG-13",
+    "rateTomato": 88,
+    "rateImdb": 7.9,
+    "rateMetacritic": 75
+  }
+]

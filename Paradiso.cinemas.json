@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6692882ff8b31eaa616a3e5e"
+  },
+  "name": "Ritz CinemasName",
+  "address": "45 St Pauls St, Randwick NSW",
+  "lat": -33.920051,
+  "lng": 151.2433397
+},
+{
+  "_id": {
+    "$oid": "6692882ff8b31eaa616a3e5f"
+  },
+  "name": "Hayden Orpheum Picture Palace",
+  "address": "380 Military Rd, Cremorne NSW",
+  "lat": -33.8280394,
+  "lng": 151.2297513
+},
+{
+  "_id": {
+    "$oid": "6692882ff8b31eaa616a3e60"
+  },
+  "name": "IMAX Sydney",
+  "address": "31 Wheat Rd, Darling Harbour NSW",
+  "lat": -33.8734864,
+  "lng": 151.2016212
+},
+{
+  "_id": {
+    "$oid": "6692882ff8b31eaa616a3e61"
+  },
+  "name": "Golden Age Cinema & Bar",
+  "address": "80 Commonwealth St, Surry Hills NSW",
+  "lat": -33.8793612,
+  "lng": 151.2110565
+},
+{
+  "_id": {
+    "$oid": "6692882ff8b31eaa616a3e62"
+  },
+  "name": "Event Cinemas George Street",
+  "address": "505-525 George St, Sydney NSW",
+  "lat": -33.8751239,
+  "lng": 151.2060487
+},
+{
+  "_id": {
+    "$oid": "6692882ff8b31eaa616a3e63"
+  },
+  "name": "Dendy Cinemas Newtown",
+  "address": "261-263 King St, Newtown NSW",
+  "lat": -33.8960079,
+  "lng": 151.1804343
+}]

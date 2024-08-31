@@ -1,0 +1,2402 @@
+[
+  {
+    "movieId": "66d32b5d92dd416ab23e9f84",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-12-06T18:48:36.803Z",
+    "time": 12,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f66",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-05-06T11:41:02.713Z",
+    "time": 16,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f91",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-10-06T20:39:59.703Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f49",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-10-07T17:13:18.487Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa2",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-02-21T06:41:17.136Z",
+    "time": 18,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f4c",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-11-18T21:30:37.558Z",
+    "time": 11,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f86",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-06-18T20:12:45.547Z",
+    "time": 18,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f6a",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-05-05T15:11:31.777Z",
+    "time": 14,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8b",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-09-26T15:07:11.226Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f61",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-06-03T11:00:33.618Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f4b",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-09-25T11:55:13.884Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f85",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-11-02T20:05:18.718Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f59",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-11-09T19:47:02.747Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f72",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-12-23T12:00:13.082Z",
+    "time": 13,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7e",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-10-17T00:53:38.385Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa0",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-04-29T11:53:12.891Z",
+    "time": 20,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f80",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-05-01T17:45:52.534Z",
+    "time": 13,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8a",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-12-17T21:13:25.299Z",
+    "time": 19,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f3d",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-11-27T20:23:08.441Z",
+    "time": 20,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f89",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-10-29T00:13:07.682Z",
+    "time": 18,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8e",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-09-10T09:47:10.334Z",
+    "time": 16,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f75",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-03-21T03:34:50.884Z",
+    "time": 16,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f96",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-11-12T00:08:34.232Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f89",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-02-17T21:43:13.848Z",
+    "time": 14,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f58",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-06-24T19:51:29.183Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f71",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-05-02T19:20:18.746Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f72",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-10-04T06:05:20.041Z",
+    "time": 17,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7a",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-06-03T18:38:46.276Z",
+    "time": 11,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f67",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-09-15T21:19:12.976Z",
+    "time": 17,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7e",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-12-20T04:39:46.276Z",
+    "time": 14,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7c",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-04-01T09:15:40.268Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f93",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-12-06T07:29:59.818Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f40",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-12-03T08:59:01.199Z",
+    "time": 12,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5b",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-01-10T09:59:06.616Z",
+    "time": 14,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7a",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-02-22T11:32:38.312Z",
+    "time": 20,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f4b",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-01-14T21:30:54.170Z",
+    "time": 11,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5c",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-01-19T20:11:40.124Z",
+    "time": 16,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f96",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-02-06T04:12:19.883Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8b",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-04-03T21:44:38.180Z",
+    "time": 13,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa0",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-02-09T14:00:58.058Z",
+    "time": 16,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7d",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-10-19T23:04:59.260Z",
+    "time": 16,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f41",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-09-28T16:54:06.977Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f6f",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-11-06T05:44:24.147Z",
+    "time": 13,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f54",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-06-27T18:34:57.036Z",
+    "time": 20,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f9a",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-09-30T11:05:53.660Z",
+    "time": 19,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f81",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-10-30T01:44:25.221Z",
+    "time": 16,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8d",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-10-27T04:58:27.300Z",
+    "time": 17,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f64",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-06-03T16:31:45.362Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7c",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-09-04T06:03:26.787Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f3e",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-03-07T22:35:09.395Z",
+    "time": 13,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5b",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-05-03T22:48:13.754Z",
+    "time": 18,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8c",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-04-01T10:01:07.178Z",
+    "time": 18,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7c",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-05-08T23:56:05.893Z",
+    "time": 20,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f53",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-04-10T18:44:44.365Z",
+    "time": 11,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f4e",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-05-22T06:02:00.183Z",
+    "time": 11,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f55",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-02-01T21:31:06.916Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f43",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-05-16T18:28:15.148Z",
+    "time": 19,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f9e",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-03-06T16:13:43.114Z",
+    "time": 10,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f41",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-01-21T20:06:01.815Z",
+    "time": 19,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5e",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-02-21T09:01:09.353Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa6",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-04-30T06:35:29.841Z",
+    "time": 14,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7a",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-04-20T04:58:19.289Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f3e",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-03-07T05:00:24.759Z",
+    "time": 17,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa2",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-09-27T12:57:27.112Z",
+    "time": 18,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f80",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-09-16T12:10:44.648Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f42",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-12-14T07:39:48.259Z",
+    "time": 10,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f90",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-02-13T15:27:00.541Z",
+    "time": 13,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f58",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-06-09T01:26:52.816Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f39",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-11-01T00:48:57.311Z",
+    "time": 10,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f43",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-02-18T02:56:49.090Z",
+    "time": 18,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f96",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-01-03T06:11:29.548Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f81",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-03-15T18:49:58.680Z",
+    "time": 10,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f48",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-06-27T17:04:41.235Z",
+    "time": 14,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f68",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-03-12T11:17:17.492Z",
+    "time": 13,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7d",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-12-26T13:43:34.426Z",
+    "time": 17,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f4d",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-11-10T10:56:36.060Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f9a",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-09-14T00:33:21.340Z",
+    "time": 13,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f87",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-06-05T13:07:53.540Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f6d",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-05-13T01:57:50.684Z",
+    "time": 20,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f79",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-09-02T21:37:22.276Z",
+    "time": 14,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f43",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-12-12T16:34:11.715Z",
+    "time": 20,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa6",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-09-07T16:06:19.141Z",
+    "time": 18,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f9e",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-12-13T21:32:00.475Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f64",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-03-10T10:32:52.520Z",
+    "time": 14,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f78",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-01-09T20:26:28.569Z",
+    "time": 20,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa5",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-09-16T01:57:55.594Z",
+    "time": 11,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f4e",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-04-24T17:31:32.444Z",
+    "time": 14,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f6a",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-11-15T05:35:49.971Z",
+    "time": 14,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f75",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-06-15T22:59:26.752Z",
+    "time": 13,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f91",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-09-30T10:35:42.520Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa0",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-02-28T06:49:36.570Z",
+    "time": 18,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f82",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-05-25T05:10:55.916Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f85",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-06-19T08:11:34.711Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f62",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-04-21T10:33:36.671Z",
+    "time": 11,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f76",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-05-06T12:13:17.250Z",
+    "time": 18,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa9",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-12-21T08:10:02.634Z",
+    "time": 12,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f47",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-12-31T03:13:16.728Z",
+    "time": 14,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f65",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-09-15T01:56:51.855Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa2",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-10-06T21:35:19.598Z",
+    "time": 13,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7f",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-03-29T07:29:58.442Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f80",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-05-20T06:41:53.416Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f6a",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-01-08T20:49:02.758Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f68",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-04-01T08:20:12.964Z",
+    "time": 14,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7b",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-10-23T04:59:29.889Z",
+    "time": 14,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa3",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-10-22T03:09:43.244Z",
+    "time": 19,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f3b",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-05-12T10:13:46.775Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8b",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-05-06T14:26:13.347Z",
+    "time": 11,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f40",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-02-07T17:31:43.898Z",
+    "time": 13,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5f",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-02-24T00:30:05.323Z",
+    "time": 20,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa1",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-01-17T05:04:00.340Z",
+    "time": 18,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5a",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-11-30T22:26:41.264Z",
+    "time": 11,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f6f",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-05-05T11:08:48.080Z",
+    "time": 20,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f4d",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-03-02T02:32:29.882Z",
+    "time": 13,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f77",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-02-05T10:53:48.305Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8d",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-02-04T13:33:14.896Z",
+    "time": 11,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f4c",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-05-25T12:56:59.816Z",
+    "time": 10,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7d",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-06-25T12:29:03.676Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f95",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-11-02T20:45:40.036Z",
+    "time": 16,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7d",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-12-03T12:41:54.573Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f62",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-02-10T21:33:12.592Z",
+    "time": 11,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f4c",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-06-16T16:38:42.876Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8c",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-12-06T14:02:25.713Z",
+    "time": 20,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f86",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-03-25T20:16:25.982Z",
+    "time": 11,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f70",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-10-23T16:59:15.855Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f70",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-03-14T11:29:14.969Z",
+    "time": 14,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f81",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-12-02T13:59:44.929Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa0",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-02-14T02:12:39.552Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f69",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-03-01T20:28:58.432Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f4e",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-06-09T21:03:40.068Z",
+    "time": 20,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f79",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-06-22T21:40:13.308Z",
+    "time": 11,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f92",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-09-03T11:54:44.894Z",
+    "time": 18,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8d",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-11-02T11:28:34.487Z",
+    "time": 14,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f44",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-05-25T04:40:33.834Z",
+    "time": 18,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f86",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-11-26T23:46:01.388Z",
+    "time": 20,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f80",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-11-26T15:35:46.459Z",
+    "time": 20,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f6f",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-11-27T12:35:53.213Z",
+    "time": 14,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa8",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-09-26T13:04:39.126Z",
+    "time": 17,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f54",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-12-14T21:04:49.663Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f79",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-05-31T13:18:19.462Z",
+    "time": 11,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f83",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-12-08T15:27:24.363Z",
+    "time": 11,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f72",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-02-20T15:06:23.588Z",
+    "time": 14,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f4f",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-09-26T04:39:03.260Z",
+    "time": 13,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f85",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-04-29T13:23:23.329Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f3a",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-03-29T10:57:18.352Z",
+    "time": 11,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f65",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-09-21T04:02:25.491Z",
+    "time": 11,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5b",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-10-24T19:20:00.542Z",
+    "time": 19,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f62",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-06-07T14:51:11.736Z",
+    "time": 19,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f60",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-03-07T08:31:10.296Z",
+    "time": 16,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f81",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-12-12T06:40:30.340Z",
+    "time": 20,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f74",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-11-07T08:43:32.423Z",
+    "time": 16,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f64",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-09-30T16:06:51.114Z",
+    "time": 16,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f3f",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-10-13T10:08:01.103Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f59",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-11-03T21:31:47.122Z",
+    "time": 11,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f67",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-04-03T22:32:37.450Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f99",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-10-04T02:11:19.070Z",
+    "time": 11,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8e",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-12-06T05:20:13.370Z",
+    "time": 17,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7d",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-09-26T22:48:02.291Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f79",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-08-31T23:04:49.330Z",
+    "time": 20,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7f",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-10-30T19:36:44.626Z",
+    "time": 18,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8a",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-03-28T04:47:50.114Z",
+    "time": 19,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f42",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-03-12T07:07:22.656Z",
+    "time": 12,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f93",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-01-17T02:25:05.096Z",
+    "time": 18,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa4",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-04-26T01:34:16.096Z",
+    "time": 18,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f67",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-12-17T09:49:01.378Z",
+    "time": 12,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f9d",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-11-09T08:58:01.587Z",
+    "time": 16,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8d",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-05-21T00:54:44.730Z",
+    "time": 17,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f61",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-12-15T04:16:17.482Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f54",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-11-08T09:03:12.722Z",
+    "time": 20,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7f",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-01-18T21:03:37.301Z",
+    "time": 12,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f91",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-10-18T14:05:31.521Z",
+    "time": 17,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f6f",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-09-08T10:42:26.799Z",
+    "time": 10,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f67",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-01-22T19:00:15.962Z",
+    "time": 19,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f83",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-10-02T12:46:10.542Z",
+    "time": 11,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa4",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-06-01T17:17:52.250Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8c",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-04-10T05:18:27.531Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f9b",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-05-29T15:41:19.774Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa7",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-04-09T15:31:18.284Z",
+    "time": 12,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa2",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-12-17T23:54:52.562Z",
+    "time": 11,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f9c",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-09-12T15:59:58.216Z",
+    "time": 18,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f71",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-10-14T10:00:23.687Z",
+    "time": 17,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f3b",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-12-08T19:05:53.656Z",
+    "time": 14,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f80",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-10-31T19:46:32.165Z",
+    "time": 13,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa1",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-10-01T14:28:04.580Z",
+    "time": 19,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f92",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-01-27T16:13:47.811Z",
+    "time": 17,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f41",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-10-17T12:07:11.269Z",
+    "time": 17,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f40",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-09-20T16:04:36.336Z",
+    "time": 13,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f65",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-01-25T04:34:59.355Z",
+    "time": 14,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f4a",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-12-06T02:43:57.580Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f47",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-11-26T00:46:05.931Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7c",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-09-13T04:46:14.536Z",
+    "time": 14,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5b",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-01-16T21:09:58.909Z",
+    "time": 18,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f60",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-05-20T07:40:28.969Z",
+    "time": 11,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f77",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-04-22T03:55:02.850Z",
+    "time": 11,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f9b",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-04-18T19:28:24.345Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa7",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-12-27T17:42:47.351Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8e",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-02-11T09:29:32.231Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa9",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-11-18T02:14:39.388Z",
+    "time": 17,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa8",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-11-22T01:41:49.040Z",
+    "time": 20,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8c",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-02-07T04:24:33.059Z",
+    "time": 16,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f3c",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-05-14T19:54:56.307Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5e",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-05-22T15:17:38.877Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f51",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-04-24T14:00:40.397Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f91",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-05-01T11:42:30.470Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7d",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-04-22T03:13:37.886Z",
+    "time": 17,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f42",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-11-20T00:15:49.591Z",
+    "time": 13,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f68",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-06-15T09:39:15.302Z",
+    "time": 13,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f3a",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-11-29T03:56:28.053Z",
+    "time": 20,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f94",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-12-10T21:51:57.664Z",
+    "time": 17,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f6e",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-12-26T05:26:36.518Z",
+    "time": 14,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f3b",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-01-30T23:50:52.817Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa6",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-01-23T17:11:30.188Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f73",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-09-06T04:13:43.294Z",
+    "time": 16,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f66",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-04-06T20:37:24.145Z",
+    "time": 16,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f69",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-05-07T12:53:48.952Z",
+    "time": 13,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f61",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-10-17T06:47:00.056Z",
+    "time": 20,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f51",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-04-22T21:14:41.884Z",
+    "time": 20,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f43",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-11-10T17:33:13.155Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5a",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-10-26T11:52:40.731Z",
+    "time": 16,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f76",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-09-11T15:38:40.555Z",
+    "time": 17,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa9",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-02-09T04:43:52.678Z",
+    "time": 14,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5b",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-03-18T04:39:28.852Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f9a",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-03-05T14:14:29.593Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f39",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-06-20T10:14:14.684Z",
+    "time": 13,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f4c",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-11-22T11:53:00.883Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f53",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-12-09T11:33:05.433Z",
+    "time": 18,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa1",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-06-11T03:27:08.765Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f74",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-10-03T15:49:59.915Z",
+    "time": 16,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f94",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-12-28T02:54:39.787Z",
+    "time": 17,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa7",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-06-19T07:07:09.889Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f3f",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-01-19T10:34:22.488Z",
+    "time": 13,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7a",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-01-21T00:32:41.074Z",
+    "time": 20,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f90",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-05-23T01:25:47.835Z",
+    "time": 10,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f6d",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-05-15T05:01:05.458Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8e",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-03-28T18:01:53.901Z",
+    "time": 12,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f88",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-03-07T00:32:56.763Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7e",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-05-30T15:59:49.661Z",
+    "time": 20,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f3b",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-05-05T08:01:37.595Z",
+    "time": 20,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f79",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-11-07T01:10:18.040Z",
+    "time": 10,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5c",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-03-05T05:23:08.388Z",
+    "time": 13,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f91",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-03-12T21:03:10.205Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f66",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-05-08T17:25:17.053Z",
+    "time": 20,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f62",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-10-01T08:55:48.468Z",
+    "time": 18,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa1",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-09-06T12:43:32.572Z",
+    "time": 14,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f50",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-12-02T20:08:40.994Z",
+    "time": 19,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa4",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-06-01T20:42:55.498Z",
+    "time": 17,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f51",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-06-16T17:20:22.679Z",
+    "time": 18,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f43",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-12-08T05:50:21.750Z",
+    "time": 17,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f83",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-05-26T23:56:19.125Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f69",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-05-29T14:18:50.593Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f86",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-12-25T04:28:14.285Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f6a",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-04-08T05:27:20.543Z",
+    "time": 17,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f76",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-12-02T19:46:00.469Z",
+    "time": 18,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f92",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-02-26T20:53:08.638Z",
+    "time": 17,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa9",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-09-29T16:23:35.539Z",
+    "time": 14,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f41",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-01-15T16:04:33.556Z",
+    "time": 17,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f98",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-03-09T00:19:41.591Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f75",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-04-12T09:49:09.393Z",
+    "time": 16,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f4e",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-09-17T12:58:40.627Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5f",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-10-11T00:19:54.578Z",
+    "time": 16,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f3d",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-09-12T09:11:28.262Z",
+    "time": 20,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f99",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-02-19T11:43:33.887Z",
+    "time": 20,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f6f",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-09-30T15:09:05.357Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f47",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-03-02T18:56:42.795Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f50",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-10-04T06:43:03.487Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f6a",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-04-22T03:41:18.296Z",
+    "time": 12,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f44",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-09-17T11:21:18.179Z",
+    "time": 11,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f69",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2024-09-14T19:55:22.838Z",
+    "time": 20,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f53",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-04-20T12:24:06.266Z",
+    "time": 14,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f53",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-12-22T07:37:24.650Z",
+    "time": 19,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f75",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-04-19T19:21:01.071Z",
+    "time": 12,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f86",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-12-26T20:15:14.229Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa8",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-01-31T05:27:53.207Z",
+    "time": 12,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f7d",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-03-17T04:51:50.499Z",
+    "time": 20,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5f",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-09-25T01:19:41.187Z",
+    "time": 16,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5f",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-05-12T20:45:21.186Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f55",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-12-30T03:15:12.209Z",
+    "time": 19,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa1",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-01-08T21:54:51.891Z",
+    "time": 17,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f97",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-02-25T03:50:40.657Z",
+    "time": 19,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f55",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-12-15T14:34:43.204Z",
+    "time": 16,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f85",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-05-18T03:35:08.893Z",
+    "time": 18,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f65",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-12-30T13:21:17.674Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f94",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-04-06T13:41:13.673Z",
+    "time": 12,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f39",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-12-03T17:02:15.364Z",
+    "time": 11,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8d",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2024-11-27T17:47:47.758Z",
+    "time": 17,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f44",
+    "cinemaId": "6692882ff8b31eaa616a3e5f",
+    "available_seats": 30,
+    "date": "2025-03-03T21:25:53.993Z",
+    "time": 18,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f58",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-12-11T18:08:31.963Z",
+    "time": 17,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f89",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-09-17T12:04:39.924Z",
+    "time": 13,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f58",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2025-02-08T09:34:05.417Z",
+    "time": 18,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f48",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-04-06T22:58:24.675Z",
+    "time": 19,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f85",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-03-18T06:53:07.645Z",
+    "time": 13,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f93",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-03-02T23:01:23.481Z",
+    "time": 15,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f64",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2025-05-25T09:13:11.330Z",
+    "time": 16,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9fa2",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2024-12-08T04:23:19.163Z",
+    "time": 15,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f54",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-12-17T16:10:09.740Z",
+    "time": 16,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f6f",
+    "cinemaId": "6692882ff8b31eaa616a3e62",
+    "available_seats": 30,
+    "date": "2025-03-22T04:34:36.530Z",
+    "time": 18,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f44",
+    "cinemaId": "6692882ff8b31eaa616a3e60",
+    "available_seats": 30,
+    "date": "2024-09-09T01:00:19.247Z",
+    "time": 18,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f78",
+    "cinemaId": "6692882ff8b31eaa616a3e63",
+    "available_seats": 30,
+    "date": "2024-09-22T17:48:44.026Z",
+    "time": 12,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f5a",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2025-06-22T07:16:10.995Z",
+    "time": 13,
+    "price": 25
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f85",
+    "cinemaId": "6692882ff8b31eaa616a3e5e",
+    "available_seats": 30,
+    "date": "2024-10-27T19:08:59.979Z",
+    "time": 19,
+    "price": 20
+  },
+  {
+    "movieId": "66d32b5d92dd416ab23e9f8a",
+    "cinemaId": "6692882ff8b31eaa616a3e61",
+    "available_seats": 30,
+    "date": "2025-05-07T16:52:20.996Z",
+    "time": 12,
+    "price": 25
+  }
+]
