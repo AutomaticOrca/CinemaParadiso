@@ -33,7 +33,7 @@ const cartSlice = createSlice({
       state.currentPurchase.tickets.NORMAL.unitPrice =
         state.currentPurchase.originUnitPrice;
       state.currentPurchase.tickets.DISCOUNTED.unitPrice =
-        state.currentPurchase.originUnitPrice - 2;
+        state.currentPurchase.originUnitPrice - 5;
     },
     addItem(state, action) {
       // payload = type
@@ -55,18 +55,24 @@ const cartSlice = createSlice({
       if (type === "NORMAL" || type === "DISCOUNTED") {
         state.currentPurchase.tickets[type].quantity += 1;
       }
+      console.log(
+        `increase type: ${type} quantity: ${state.currentPurchase.tickets[type].quantity}`
+      );
     },
     decreaseItemQuantity(state, action) {
       // payload = type
       const type = action.payload;
       if (type === "NORMAL" || type === "DISCOUNTED") {
         if (state.currentPurchase.tickets[type].quantity > 0) {
-          state.currentPurchase.tickets[type].number -= 1;
+          state.currentPurchase.tickets[type].quantity -= 1;
         }
         if (state.currentPurchase.tickets[type].quantity === 0) {
           cartSlice.caseReducers.deleteItem(state, action);
         }
       }
+      console.log(
+        `decrease type: ${type} quantity: ${state.currentPurchase.tickets[type].quantity}`
+      );
     },
 
     clearCart(state) {

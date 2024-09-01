@@ -4,31 +4,18 @@ import {
   increaseItemQuantity,
 } from "../../shared/store/cartSlice";
 
-function UpdateItemQuantity({
-  currentQuantity,
-  setCurrentQuantity,
-  setIsInCart,
-}) {
-  const increaseItemQuantity = () => {
-    setCurrentQuantity(currentQuantity + 1);
-  };
-  const decreaseItemQuantity = () => {
-    setCurrentQuantity(currentQuantity - 1);
-    if (currentQuantity === 1) {
-      // what is the logic of this part?
-      deleteItem();
-    }
-  };
-
-  const deleteItem = () => {
-    setIsInCart(false);
-  };
-
+function UpdateItemQuantity({ type, currentQuantity }) {
+  const dispatch = useDispatch();
   return (
     <div>
-      <button onClick={decreaseItemQuantity}>-</button>
+      <button
+        onClick={() => dispatch(decreaseItemQuantity(type))}
+        disabled={currentQuantity === 0}
+      >
+        -
+      </button>
       <span>{currentQuantity}</span>
-      <button onClick={increaseItemQuantity}>+</button>
+      <button onClick={() => dispatch(increaseItemQuantity(type))}>+</button>
     </div>
   );
 }
