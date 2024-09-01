@@ -2,8 +2,9 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
   currentPurchase: {
-    sessionId: "",
-    userId: "",
+    sessionId: "session1",
+    userId: "user1",
+    originUnitPrice: "20",
     tickets: {
       NORMAL: { quantity: 0, unitPrice: 0 },
       DISCOUNTED: { quantity: 0, unitPrice: 0 },
@@ -27,6 +28,12 @@ const cartSlice = createSlice({
       // payload = userId
       const userId = action.payload;
       state.currentPurchase.userId = userId;
+    },
+    setTicketPrices(state) {
+      state.currentPurchase.tickets.NORMAL.unitPrice =
+        state.currentPurchase.originUnitPrice;
+      state.currentPurchase.tickets.DISCOUNTED.unitPrice =
+        state.currentPurchase.originUnitPrice - 2;
     },
     addItem(state, action) {
       // payload = type
@@ -81,6 +88,7 @@ const cartSlice = createSlice({
 export const {
   setSession,
   setUser,
+  setTicketPrices,
   addItem,
   deleteItem,
   increaseItemQuantity,
@@ -94,3 +102,8 @@ export default cartSlice.reducer;
 
 // Selectors
 export const getCurrentPurchase = (state) => state.cart.currentPurchase;
+export const initializeCurrentPurchase = (sessionId, userId) => (dispatch) => {
+  dispatch(setSession(sessionId));
+  dispatch(setUser(userId));
+  dispatch(setTicketPrices());
+};

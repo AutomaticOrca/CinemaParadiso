@@ -1,3 +1,9 @@
+import { useDispatch } from "react-redux";
+import {
+  decreaseItemQuantity,
+  increaseItemQuantity,
+} from "../../shared/store/cartSlice";
+
 function UpdateItemQuantity({
   currentQuantity,
   setCurrentQuantity,
