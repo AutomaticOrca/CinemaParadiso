@@ -1,75 +1,96 @@
 import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
-  cart: [],
+  currentPurchase: {
+    sessionId: "",
+    userId: "",
+    tickets: {
+      NORMAL: { quantity: 0, unitPrice: 0 },
+      DISCOUNTED: { quantity: 0, unitPrice: 0 },
+    },
+    status: "PENDING",
+  },
+  loading: false,
+  error: null,
 };
 
 const cartSlice = createSlice({
   name: "cart",
   initialState,
   reducers: {
+    setSession(state, action) {
+      // payload = sessionId
+      const sessionId = action.payload;
+      state.currentPurchase.sessionId = sessionId;
+    },
+    setUser(state, action) {
+      // payload = userId
+      const userId = action.payload;
+      state.currentPurchase.userId = userId;
+    },
     addItem(state, action) {
-      state.cart.push(action.payload); // 添加新的票
+      // payload = type
+      const type = action.payload;
+      if (type === "NORMAL" || type === "DISCOUNTED") {
+        state.currentPurchase.tickets[type].quantity = 1;
+      }
     },
     deleteItem(state, action) {
-      // 根据 sessionId 和 ticketType 删除指定的票
-      state.cart = state.cart.filter(
-        (item) =>
-          item.sessionId !== action.payload.sessionId ||
-          item.ticketType !== action.payload.ticketType
-      );
+      // payload = type
+      const type = action.payload;
+      if (type === "NORMAL" || type === "DISCOUNTED") {
+        state.currentPurchase.tickets[type].quantity = 0;
+      }
     },
     increaseItemQuantity(state, action) {
-      const item = state.cart.find(
-        (item) =>
-          item.sessionId === action.payload.sessionId &&
-          item.ticketType === action.payload.ticketType
-      );
-      if (item) {
-        item.quantity++;
-        item.totalPrice = item.quantity * item.unitPrice;
+      // payload = type
+      const type = action.payload;
+      if (type === "NORMAL" || type === "DISCOUNTED") {
+        state.currentPurchase.tickets[type].quantity += 1;
       }
     },
     decreaseItemQuantity(state, action) {
-      const item = state.cart.find(
-        (item) =>
-          item.sessionId === action.payload.sessionId &&
-          item.ticketType === action.payload.ticketType
-      );
-      if (item && item.quantity > 0) {
-        item.quantity--;
-        item.totalPrice = item.quantity * item.unitPrice;
-
-        if (item.quantity === 0)
+      // payload = type
+      const type = action.payload;
+      if (type === "NORMAL" || type === "DISCOUNTED") {
+        if (state.currentPurchase.tickets[type].quantity > 0) {
+          state.currentPurchase.tickets[type].number -= 1;
+        }
+        if (state.currentPurchase.tickets[type].quantity === 0) {
           cartSlice.caseReducers.deleteItem(state, action);
+        }
       }
     },
+
     clearCart(state) {
-      state.cart = [];
+      state.currentPurchase.tickets.NORMAL.quantity = 0;
+      state.currentPurchase.tickets.DISCOUNTED.quantity = 0;
+    },
+
+    setLoading(state, action) {
+      // payload = boolean
+      state.loading = action.payload;
+    },
+    setError(state, action) {
+      // payload = error message or null
+      state.error = action.payload;
     },
   },
 });
 
 export const {
+  setSession,
+  setUser,
   addItem,
   deleteItem,
   increaseItemQuantity,
   decreaseItemQuantity,
   clearCart,
+  setLoading,
+  setError,
 } = cartSlice.actions;
 
 export default cartSlice.reducer;
 
-export const getCart = (state) => state.cart.cart;
-
-export const getTotalCartQuantity = (state) =>
-  state.cart.cart.reduce((sum, item) => sum + item.quantity, 0);
-
-export const getTotalCartPrice = (state) =>
-  state.cart.cart.reduce((sum, item) => sum + item.totalPrice, 0);
-
-export const getCurrentQuantityBySessionAndType =
-  (sessionId, ticketType) => (state) =>
-    state.cart.cart.find(
-      (item) => item.sessionId === sessionId && item.ticketType === ticketType
-    )?.quantity ?? 0;
+// Selectors
+export const getCurrentPurchase = (state) => state.cart.currentPurchase;

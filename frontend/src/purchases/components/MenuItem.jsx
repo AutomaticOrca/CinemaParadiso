@@ -1,25 +1,33 @@
-import { useDispatch, useSelector } from "react-redux";
-import { addItem, getCurrentQuantityById } from "../../shared/store/cartSlice";
+import { useState } from "react";
+import UpdateItemQuantity from "./UpdateItemQuantity";
 
 function MenuItem({ ticket }) {
-  const dispatch = useDispatch();
-
   const { type, unitPrice } = ticket;
-  const currentQuantity = useSelector(getCurrentQuantityById(id));
+  const [currentQuantity, setCurrentQuantity] = useState(0);
+  const [isInCart, setIsInCart] = useState(currentQuantity > 0);
+
   const handleAddToCart = () => {
-    const newItem = {
-      type,
-      quantity: 1,
-      unitPrice,
-      totalPrice: unitPrice * 1,
-    };
-    dispatch(addItem(newItem));
+    if (currentQuantity <= 0) {
+      setIsInCart(true);
+    }
+    setCurrentQuantity(currentQuantity + 1);
+    console.log(currentQuantity);
   };
   return (
     <li>
-      <p>
-        {type} ${unitPrice}
-      </p>
+      <p>{type}</p>
+      <p>${unitPrice}</p>
+      {isInCart && (
+        <div>
+          <UpdateItemQuantity
+            currentQuantity={currentQuantity}
+            setCurrentQuantity={setCurrentQuantity}
+            setIsInCart={setIsInCart}
+          />
+        </div>
+      )}
+
+      {!isInCart && <button onClick={handleAddToCart}>add to cart</button>}
     </li>
   );
 }
