@@ -1,13 +1,16 @@
-import { useDispatch, useSelector } from "react-redux";
+import { useDispatch } from "react-redux";
 import UpdateItemQuantity from "./UpdateItemQuantity";
 
 function MenuItem({ type, currentQuantity, unitPrice }) {
-  const dispatch = useDispatch();
-
   return (
-    <li>
-      {type} ${unitPrice} each{" "}
-      <UpdateItemQuantity type={type} currentQuantity={currentQuantity} />
+    <li className="flex items-center justify-between mb-4">
+      <div className="flex flex-col">
+        <span className="text-lg font-medium">{type}</span>
+        <span className="text-gray-600">${unitPrice} each</span>
+      </div>
+      <div className="ml-8">
+        <UpdateItemQuantity type={type} currentQuantity={currentQuantity} />
+      </div>
     </li>
   );
 }

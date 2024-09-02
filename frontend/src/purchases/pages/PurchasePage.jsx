@@ -33,6 +33,7 @@ function PurchasePage() {
       </>
     );
   }
+
   return (
     <div>
       <Menu />
