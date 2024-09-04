@@ -1,8 +1,18 @@
-import { useState } from "react";
+import { useContext, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-useState;
+import { useSelector } from "react-redux";
+import { AuthContext } from "../../shared/context/auth-context";
+import { getCurrentPurchase } from "../../shared/store/cartSlice";
+import { placeOrder } from "../../shared/util/api";
+
 function CheckoutPage() {
   const { sessionid } = useParams();
+  const { userId } = useContext(AuthContext);
+
+  const navigate = useNavigate();
+
+  const { tickets } = useSelector(getCurrentPurchase);
+
   const [formData, setFormData] = useState({
     givenNames: "",
     surname: "",
@@ -19,9 +29,32 @@ function CheckoutPage() {
     });
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     console.log("Form Submitted", formData);
+
+    const ticketsData = [
+      {
+        type: "NORMAL",
+        number: tickets["NORMAL"].quantity,
+        price: tickets["NORMAL"].unitPrice,
+      },
+      {
+        type: "DISCOUNTED",
+        number: tickets["DISCOUNTED"].quantity,
+        price: tickets["DISCOUNTED"].unitPrice,
+      },
+    ];
+
+    try {
+      const response = await placeOrder({
+        sessionId: sessionid,
+        userId,
+        tickets: ticketsData,
+      });
+    } catch (error) {
+      console.error("order submission failed: ", error.message);
+    }
   };
 
   return (

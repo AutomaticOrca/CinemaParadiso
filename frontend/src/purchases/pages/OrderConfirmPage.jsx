@@ -1,5 +1,5 @@
 function OrderConfirmPage() {
-  return <div></div>;
+  return <div>order confirmed</div>;
 }
 // some congrats effect here
 // order details

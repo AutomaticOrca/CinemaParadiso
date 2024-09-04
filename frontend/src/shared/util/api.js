@@ -38,4 +38,28 @@ const fetchSessions = async (endpoint) => {
   }
 };
 
-export { fetchMovieById, fetchCinemaById, fetchSessionById, fetchSessions };
+const placeOrder = async ({ sessionId, userId, tickets }) => {
+  try {
+    const orderData = {
+      sessionId,
+      userId,
+      tickets,
+    };
+    console.log(orderData);
+    console.log(`${API_URL}/purchases`);
+    const response = await axios.post(`${API_URL}/purchases/`, orderData);
+
+    return response.data;
+  } catch (error) {
+    console.error("Error placing order:", error.message);
+    throw new Error("Faild to place order");
+  }
+};
+
+export {
+  fetchMovieById,
+  fetchCinemaById,
+  fetchSessionById,
+  fetchSessions,
+  placeOrder,
+};

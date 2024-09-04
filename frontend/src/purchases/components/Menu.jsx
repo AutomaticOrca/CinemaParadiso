@@ -1,29 +1,29 @@
-import { useEffect } from "react";
-import { useParams, useNavigate } from "react-router-dom";
+import { useContext, useEffect } from "react";
+import { useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import MenuItem from "./MenuItem";
+import { AuthContext } from "../../shared/context/auth-context";
 import {
   getCurrentPurchase,
-  initializeCurrentPurchase,
+  setSession,
+  setUser,
 } from "../../shared/store/cartSlice";
 
-function Menu() {
+function Menu({ sessionid }) {
   const dispatch = useDispatch();
   const navigate = useNavigate();
-  const { sessionid } = useParams();
+  const { userId } = useContext(AuthContext);
 
   const handleClickCheckout = () => {
     navigate(`/checkout/${sessionid}`);
   };
 
   useEffect(() => {
-    const sessionId = "session1";
-    const userId = "user1";
-    dispatch(initializeCurrentPurchase(sessionId, userId));
+    dispatch(setSession(sessionid));
+    dispatch(setUser(userId));
   }, [dispatch]);
 
-  const { sessionId, userId, originUnitPrice, tickets, status } =
-    useSelector(getCurrentPurchase);
+  const { originUnitPrice, tickets, status } = useSelector(getCurrentPurchase);
 
   if (!tickets || !tickets["NORMAL"] || !tickets["DISCOUNTED"]) {
     return null;
@@ -83,7 +83,7 @@ function Menu() {
       <div className="test-display text-gray-300">
         <p>----test----</p>
         <p>
-          <strong>Session ID:</strong> {sessionId}
+          <strong>Session ID:</strong> {sessionid}
         </p>
         <p>
           <strong>User ID:</strong> {userId}

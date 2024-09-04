@@ -2,12 +2,10 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
   currentPurchase: {
-    sessionId: "session1",
-    userId: "user1",
     originUnitPrice: "20",
     tickets: {
-      NORMAL: { quantity: 0, unitPrice: 0 },
-      DISCOUNTED: { quantity: 0, unitPrice: 0 },
+      NORMAL: { quantity: 0, unitPrice: 20 },
+      DISCOUNTED: { quantity: 0, unitPrice: 15 },
     },
     status: "PENDING",
   },
@@ -108,8 +106,3 @@ export default cartSlice.reducer;
 
 // Selectors
 export const getCurrentPurchase = (state) => state.cart.currentPurchase;
-export const initializeCurrentPurchase = (sessionId, userId) => (dispatch) => {
-  dispatch(setSession(sessionId));
-  dispatch(setUser(userId));
-  dispatch(setTicketPrices());
-};

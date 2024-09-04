@@ -15,6 +15,7 @@ import CinemaPage from "./cinema/pages/CinemaPage";
 import MovieDetailsPage from "./movieDetails/pages/MovieDetailsPage";
 import PurchasePage from "./purchases/pages/PurchasePage";
 import CheckoutPage from "./purchases/pages/CheckoutPage";
+import OrderConfirmPage from "./purchases/pages/OrderConfirmPage";
 
 const App = () => {
   const { token, login, logout, userId } = useAuth();
@@ -47,6 +48,10 @@ const App = () => {
             <Route path="/session/:sessionid" element={<MovieDetailsPage />} />
             <Route path="/purchase/:sessionid" element={<PurchasePage />} />
             <Route path="/checkout/:sessionid" element={<CheckoutPage />} />
+            <Route
+              path="/orderconfirm/:orderid"
+              element={<OrderConfirmPage />}
+            />
           </Routes>
         </CommonLayout>
       </Router>

@@ -1,5 +1,5 @@
 import { useContext, useEffect, useState } from "react";
-import { useNavigate } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 import { AuthContext } from "../../shared/context/auth-context";
 import Menu from "../components/Menu";
 
@@ -7,6 +7,7 @@ function PurchasePage() {
   const [countdown, setCountdown] = useState(5);
   const { isLoggedIn } = useContext(AuthContext);
   const navigate = useNavigate();
+  const { sessionid } = useParams();
 
   useEffect(() => {
     if (!isLoggedIn) {
@@ -36,7 +37,7 @@ function PurchasePage() {
 
   return (
     <div>
-      <Menu />
+      <Menu sessionid={sessionid} />
     </div>
   );
 }
