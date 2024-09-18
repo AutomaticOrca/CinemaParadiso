@@ -1,6 +1,6 @@
 const express = require("express");
 const bodyParser = require("body-parser");
-const mongoose = require("mongoose");
+// const mongoose = require("mongoose");
 
 const HttpError = require("./models/http-error");
 
@@ -44,14 +44,15 @@ app.use((error, req, res, next) => {
   res.json({ message: error.message || "An unknown error occurred!" });
 });
 
-mongoose
-  .connect(
-    "mongodb+srv://admin:admin1220@cluster0.uu1yaxt.mongodb.net/Paradiso"
-  )
-  .then(() => {
-    console.log("connect to mongo");
-    app.listen(5005);
-  })
-  .catch((error) => {
-    console.log(error);
-  });
+// mongoose
+//   .connect(
+//     "mongodb+srv://admin:admin1220@cluster0.uu1yaxt.mongodb.net/Paradiso"
+//   )
+//   .then(() => {
+//     console.log("connect to mongo");
+//     app.listen(5005);
+//   })
+//   .catch((error) => {
+//     console.log(error);
+//   });
+module.exports = app;
